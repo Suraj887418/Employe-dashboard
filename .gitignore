@@ -1,0 +1,8 @@
+node_modules/
+.env
+__pycache__/
+*.pyc
+hr-dashboard-app/node_modules/
+hr-dashboard-app/.expo/
+api/node_modules/
+api/.env

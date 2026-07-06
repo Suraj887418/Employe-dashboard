@@ -1,0 +1,1051 @@
+Employee_ID,Age,Gender,Department,Job_Role,Years_At_Company,Total_Working_Years,Monthly_Income,Job_Satisfaction,Performance_Rating,Attrition
+EMP0088,38.0,Male,IT,Software Engineer,6,8,8306.650358524515,3,3,No
+EMP0148,21.0,Male,IT,IT Support,2,8,4132.753738075067,3,4,No
+EMP0964,42.0,Male,Research & Development,Healthcare Representative,7,8,2852.2148526526,4,3,No
+EMP0664,29.0,Female,Human Resources,HR Manager,1,4,,3,4,No
+EMP0172,26.0,Male,IT,Data Analyst,4,13,4191.999836606308,3,3,No
+EMP0989,32.0,Male,IT,IT Support,13,17,4346.551027092315,3,4,No
+EMP0558,30.0,Female,Sales,Manager,5,14,14629.061618298258,1,3,No
+EMP0457,33.0,Male,Research & Development,Laboratory Technician,4,11,4883.062961203781,1,3,No
+EMP0865,28.0,Female,Research & Development,Healthcare Representative,6,6,4225.602491719247,3,3,No
+EMP0440,34.0,Female,Human Resources,HR Representative,8,11,3835.4420903294313,4,3,No
+EMP0962,48.0,Male,Human Resources,HR Representative,3,6,4798.750611234771,3,3,No
+EMP0974,28.0,Male,Human Resources,HR Manager,5,9,14931.710484965122,4,4,No
+EMP0925,46.0,Female,Sales,Sales Executive,1,7,3725.3029603353925,2,1,Yes
+EMP0789,34.0,Male,Sales,Sales Executive,4,9,5185.716409589148,3,3,No
+EMP0934,18.0,Male,Sales,Sales Executive,5,9,4292.375339988,1,3,No
+EMP0628,33.0,Male,IT,Data Analyst,6,11,6721.085124997191,2,3,Yes
+EMP0856,29.0,Male,Sales,Sales Representative,1,4,3380.252270739075,3,3,No
+EMP0608,22.0,Male,IT,Data Analyst,4,12,9292.887782793017,1,4,Yes
+EMP0734,,Female,IT,Software Engineer,4,6,8901.536889043775,2,2,No
+EMP0511,37.0,Female,Human Resources,HR Representative,6,12,3469.591025770368,4,1,No
+EMP0225,30.0,male,IT,IT Support,8,14,,3,3,No
+EMP0321,35.0,Female,Human Resources,HR Representative,6,10,4297.94312574822,1,3,No
+EMP0810,26.0,Male,IT,Software Engineer,6,15,11654.629412281336,2,2,No
+EMP0350,32.0,Female,Human Resources,HR Manager,7,10,13281.478561200733,1,4,No
+EMP0426,48.0,Male,Sales,Manager,5,9,14433.501250192034,3,2,No
+EMP0758,36.0,Female,Sales,Manager,7,13,11007.57897646461,2,3,No
+EMP0393,21.0,Female,IT,Data Analyst,6,10,8895.5682555999,3,3,No
+EMP0560,30.0,Male,Research & Development,Healthcare Representative,4,8,3038.684608232382,1,2,Yes
+EMP0173,34.0,Female,Human Resources,HR Manager,7,14,14341.607707965708,1,3,Yes
+EMP0820,45.0,Male,Sales,Sales Executive,3,9,5024.230233927218,4,3,Yes
+EMP0192,43.0,Female,IT,Software Engineer,4,8,6765.704728761108,2,4,Yes
+EMP0654,23.0,Male,Human Resources,HR Representative,4,9,2550.5269641965156,2,3,No
+EMP0890,46.0,Female,Sales,Manager,4,10,14315.286020545105,1,3,Yes
+EMP0095,,Male,Human Resources,HR Representative,3,5,4249.156441543454,2,2,Yes
+EMP0510,26.0,Female,IT,IT Support,6,7,3618.507715720053,4,1,No
+EMP0747,36.0,Male,IT,Data Analyst,-4,7,,2,3,No
+EMP0274,35.0,male,Sales,Sales Representative,5,8,,4,3,No
+EMP0405,30.0,Female,Research & Development,Manufacturing Director,5,12,13508.459672465542,2,3,Yes
+EMP0498,33.0,Female,Human Resources,HR Representative,-13,18,4006.718947997195,4,4,No
+EMP0857,26.0,Female,Research & Development,Healthcare Representative,7,12,3629.22073529158,4,3,No
+EMP0210,65.0,Male,Human Resources,HR Manager,4,8,13156.935636357868,4,3,No
+EMP0819,35.0,Female,Research & Development,Research Scientist,7,8,8875.913013697913,3,3,Yes
+EMP0212,46.0,Male,Human Resources,HR Representative,8,13,3616.6623457994124,2,3,No
+EMP0195,36.0,Male,IT,Data Analyst,-3,4,5316.174808555205,2,2,Yes
+EMP0774,44.0,M,Sales,Manager,3,6,8958.991286894123,2,3,No
+EMP0070,28.0,Male,Human Resources,HR Manager,-2,5,14052.00211721481,1,3,No
+EMP0150,37.0,Male,Research & Development,Manufacturing Director,7,11,15640.82477496097,4,1,No
+EMP0349,,male,Human Resources,HR Representative,2,6,3351.2980322078347,1,3,No
+EMP0233,35.0,Female,Sales,Sales Representative,9,15,4291.852601834515,1,4,Yes
+EMP0926,19.0,Male,Research & Development,Manufacturing Director,3,4,16210.176240301673,2,3,No
+EMP0495,50.0,Male,Research & Development,Research Scientist,4,7,5795.03446634242,4,3,No
+EMP0606,53.0,Male,Research & Development,Laboratory Technician,5,8,3663.0510773713386,1,3,No
+EMP0235,56.0,Male,IT,Data Analyst,-5,10,,3,4,No
+EMP0185,32.0,Female,IT,Software Engineer,7,15,10298.75554623804,3,3,No
+EMP0193,37.0,Male,Sales,Manager,2,9,13134.620569731796,4,3,No
+EMP0003,41.0,Female,Human Resources,HR Representative,7,12,3519.7564801508825,3,2,No
+EMP0948,28.0,Female,Research & Development,Laboratory Technician,6,9,,2,3,Yes
+EMP0668,50.0,Male,IT,Data Analyst,6,12,7839.153500288026,3,4,No
+EMP0686,42.0,Female,IT,IT Support,-5,12,4950.439845129399,3,3,Yes
+EMP0990,35.0,Male,Human Resources,HR Manager,8,11,14373.422851342122,3,2,No
+EMP0992,18.0,Male,Research & Development,Healthcare Representative,3,6,2738.049307772473,3,4,Yes
+EMP0236,41.0,Female,IT,IT Support,-7,7,6543.038339167648,2,3,Yes
+EMP0327,46.0,Female,Human Resources,HR Representative,1,4,4205.54945885258,3,4,Yes
+EMP0842,41.0,Female,Sales,Manager,10,17,,2,4,No
+EMP0942,43.0,Male,Research & Development,Healthcare Representative,8,13,4147.192374958519,2,3,Yes
+EMP0656,35.0,Male,Research & Development,Laboratory Technician,8,19,,4,3,No
+EMP0616,36.0,Female,Sales,Sales Representative,8,12,2573.172542880226,4,1,No
+EMP0090,,Male,Sales,Sales Representative,6,6,2927.7806848249647,1,4,No
+EMP0868,,Female,Sales,Sales Executive,9,17,4256.107245070717,4,3,No
+EMP0471,,Female,Sales,Manager,7,9,11839.457516258026,2,3,No
+EMP0483,18.0,Male,Sales,Manager,3,12,20579.480285377827,2,3,No
+EMP0234,28.0,Male,Research & Development,Healthcare Representative,4,10,,4,3,No
+EMP0029,28.0,Female,Human Resources,HR Manager,6,6,15612.032041963495,4,2,No
+EMP0358,32.0,Male,Human Resources,HR Manager,2,8,12404.84270974774,4,3,No
+EMP0228,24.0,Male,Human Resources,HR Representative,2,8,5797.347025157504,4,3,No
+EMP0255,19.0,Female,Human Resources,HR Manager,4,8,17185.33209898386,3,3,No
+EMP0610,49.0,Male,Human Resources,HR Representative,6,8,4076.027773180394,2,3,Yes
+EMP0339,39.0,Female,Sales,Manager,-4,4,22883.723664595527,4,3,No
+EMP0564,31.0,Female,Human Resources,HR Manager,7,10,17151.171980738258,3,3,No
+EMP0271,,Female,IT,IT Support,7,9,5348.898525665674,1,1,No
+EMP0472,18.0,Male,IT,Data Analyst,6,11,10746.752783758666,3,3,No
+EMP0267,51.0,Female,Human Resources,HR Representative,3,3,4275.204494730384,1,3,Yes
+EMP0354,33.0,Female,Research & Development,Manufacturing Director,4,6,16101.566340350855,1,3,No
+EMP0079,35.0,Male,Research & Development,Manufacturing Director,8,13,13743.397033174473,4,3,No
+EMP0977,30.0,Male,Human Resources,HR Representative,5,10,3850.965769452473,2,2,Yes
+EMP0067,34.0,Female,Human Resources,HR Representative,9,13,4669.408214783816,3,3,Yes
+EMP0305,34.0,Male,Sales,Manager,2,4,16815.057881470526,2,3,No
+EMP0805,30.0,Female,IT,IT Support,5,8,4241.080596175352,1,3,Yes
+EMP0308,29.0,Male,Human Resources,HR Manager,4,8,20014.47815359998,1,3,No
+EMP0911,31.0,Male,IT,Software Engineer,4,7,6927.6535621986695,3,3,No
+EMP0071,38.0,Female,Human Resources,HR Manager,6,10,15033.14097731667,3,3,No
+EMP0226,,Female,Research & Development,Research Scientist,-3,8,11656.293598619652,4,3,No
+EMP0662,29.0,Male,Sales,Manager,2,3,11790.208303212332,4,3,No
+EMP0553,46.0,Female,Sales,Manager,-4,6,18508.420859750633,4,4,Yes
+EMP0539,45.0,Female,Human Resources,HR Manager,6,8,17498.916541002163,3,3,Yes
+EMP0382,29.0,Male,IT,Data Analyst,6,9,8045.636627660226,3,3,No
+EMP0017,24.0,Male,Research & Development,Research Scientist,3,10,10006.791015294057,4,3,Yes
+EMP0141,37.0,Male,Sales,Sales Executive,7,13,3558.5678397716474,4,3,No
+EMP0346,37.0,Female,Sales,Sales Executive,4,7,2650.5636533640118,1,4,Yes
+EMP0105,,Male,Human Resources,HR Manager,6,11,16078.703214864463,1,3,Yes
+EMP0963,36.0,Male,Research & Development,Laboratory Technician,9,18,3634.0751870848667,1,3,No
+EMP0241,27.0,Male,IT,Data Analyst,2,3,7077.072248284978,3,3,No
+EMP0983,25.0,Female,IT,Data Analyst,4,8,8621.689943543048,2,3,No
+EMP0523,28.0,Female,IT,Data Analyst,4,6,5232.01373456953,4,2,No
+EMP0031,,Male,Sales,Sales Representative,6,10,3329.596220356035,3,4,No
+EMP0477,40.0,Female,Sales,Sales Executive,4,6,4023.156736070609,4,4,No
+EMP0761,29.0,Male,Human Resources,HR Manager,6,11,13634.032068097958,2,3,Yes
+EMP0855,49.0,Male,IT,Data Analyst,4,7,,3,3,No
+EMP0057,26.0,Male,Sales,Sales Executive,3,7,1946.4910887806027,1,3,Yes
+EMP0831,21.0,Female,Research & Development,Laboratory Technician,4,10,3906.4855036485433,3,3,Yes
+EMP0466,32.0,Female,Human Resources,HR Representative,6,10,5045.80236436036,4,1,No
+EMP0258,27.0,F,Research & Development,Healthcare Representative,5,10,3895.628395153798,1,3,Yes
+EMP0676,27.0,Female,Sales,Sales Executive,2,7,2195.812890303042,4,3,No
+EMP0931,29.0,Male,Sales,Sales Representative,2,4,2774.1422815418696,4,4,No
+EMP0871,33.0,Female,Human Resources,HR Representative,6,9,3708.560659052958,3,3,No
+EMP0653,32.0,Male,Sales,Sales Executive,9,16,2067.7172788166226,3,3,No
+EMP0201,38.0,Female,IT,Data Analyst,5,8,10501.019098129596,3,2,No
+EMP0265,32.0,Male,Sales,Manager,9,11,12221.56259011931,3,4,No
+EMP0985,34.0,Male,Human Resources,HR Manager,5,7,14874.802634103462,1,4,Yes
+EMP0217,27.0,female,Research & Development,Laboratory Technician,1,1,4139.488681593598,4,3,No
+EMP0952,38.0,Female,Research & Development,Manufacturing Director,8,11,11468.692474073656,2,3,Yes
+EMP0108,36.0,Female,Research & Development,Research Scientist,5,9,9435.694765277489,4,3,No
+EMP0679,44.0,Male,Sales,Sales Representative,6,7,4764.0295328002385,1,3,No
+EMP0188,34.0,Male,IT,Data Analyst,3,7,7499.906016337681,4,3,No
+EMP0709,18.0,Male,Research & Development,Research Scientist,6,12,8057.146689916958,2,2,No
+EMP0068,45.0,F,Research & Development,Research Scientist,5,8,6999.716693926746,4,3,No
+EMP0935,39.0,Female,Human Resources,HR Representative,2,6,5333.400234332725,3,3,No
+EMP0696,31.0,Male,Sales,Manager,8,11,13892.633787483477,4,3,No
+EMP0415,38.0,Male,Sales,Sales Representative,5,11,4023.185211134516,3,2,No
+EMP0460,,Female,Human Resources,HR Representative,7,10,4122.6305669813155,1,1,Yes
+EMP0115,,Male,IT,Software Engineer,3,6,9994.29647788695,1,4,Yes
+EMP0020,20.0,Female,IT,Data Analyst,3,6,9157.898407803666,3,3,No
+EMP0979,19.0,Female,IT,IT Support,6,9,3721.5069317409393,2,3,No
+EMP0298,38.0,Male,Human Resources,HR Manager,3,7,12459.876662976912,4,3,No
+EMP0513,32.0,Male,IT,IT Support,3,9,5003.41305017834,4,3,Yes
+EMP0625,50.0,Female,Research & Development,Manufacturing Director,8,14,14557.602291105637,3,2,No
+EMP0646,32.0,Male,Research & Development,Research Scientist,5,12,6863.558326573833,3,3,No
+EMP0899,47.0,Male,Research & Development,Laboratory Technician,4,7,4219.013523475163,3,4,Yes
+EMP0384,29.0,Female,Research & Development,Laboratory Technician,8,12,5626.81156670109,2,2,Yes
+EMP0276,39.0,Male,Human Resources,HR Manager,4,8,13767.784642265568,1,4,Yes
+EMP0767,34.0,Female,Research & Development,Research Scientist,4,11,6985.839140924332,4,2,No
+EMP0923,36.0,Female,Human Resources,HR Manager,5,10,11486.261570888044,1,3,No
+EMP0994,28.0,Male,IT,IT Support,9,16,4267.663037924429,4,3,No
+EMP0296,28.0,Female,Human Resources,HR Manager,2,6,16476.09670883122,3,3,No
+EMP0704,20.0,Male,IT,Software Engineer,8,15,10094.214639369762,4,3,No
+EMP0080,18.0,Female,Sales,Manager,3,9,15370.903401061081,2,4,No
+EMP0969,34.0,Female,Human Resources,HR Representative,5,7,4808.0695126601095,4,4,No
+EMP0423,32.0,Female,Sales,Sales Representative,6,11,2295.599618312098,4,3,No
+EMP0093,27.0,Female,Research & Development,Research Scientist,2,7,6999.069209761206,3,3,No
+EMP0528,35.0,Female,Research & Development,Manufacturing Director,12,18,15247.399181091449,4,3,No
+EMP0638,35.0,Female,IT,Data Analyst,7,14,11394.94077856223,2,1,Yes
+EMP0970,20.0,Female,IT,IT Support,3,7,4648.3618046666625,4,1,No
+EMP0627,25.0,Female,Human Resources,HR Representative,6,11,2789.234578753309,3,2,No
+EMP0456,27.0,Male,IT,Data Analyst,3,8,3923.9980608952233,4,3,Yes
+EMP0518,,Male,Sales,Manager,2,7,12224.748770312603,3,3,No
+EMP0784,41.0,Female,Human Resources,HR Representative,9,15,3437.876063557299,1,3,No
+EMP0531,41.0,Male,IT,Data Analyst,3,9,11241.54816681789,4,3,No
+EMP0437,51.0,Male,Research & Development,Healthcare Representative,3,7,4772.302055069035,4,3,No
+EMP0130,29.0,Female,Sales,Manager,5,10,12134.173503921565,4,3,No
+EMP0430,,Male,Human Resources,HR Manager,2,6,13029.422318341503,3,4,No
+EMP0931,29.0,Male,Sales,Sales Representative,2,4,2774.1422815418696,4,4,No
+EMP0556,30.0,Female,Human Resources,HR Representative,6,7,4287.529120153223,4,3,No
+EMP0840,32.0,Female,Sales,Sales Representative,6,8,2599.6676552154404,4,3,Yes
+EMP0086,29.0,Male,Human Resources,HR Representative,5,9,3371.496253082492,1,3,Yes
+EMP0372,39.0,Female,Research & Development,Laboratory Technician,4,6,1333.4334578280063,3,3,Yes
+EMP0927,29.0,Male,Research & Development,Manufacturing Director,5,7,15454.191658470121,3,3,No
+EMP0213,44.0,Female,Research & Development,Manufacturing Director,4,9,12051.933217415273,3,4,No
+EMP0910,56.0,Female,Human Resources,HR Representative,5,8,3777.97406906014,4,3,No
+EMP0480,46.0, M,Sales,Sales Executive,6,11,5844.353546675371,3,4,No
+EMP0788,39.0,female,Research & Development,Research Scientist,4,10,6201.5366388388575,4,3,Yes
+EMP0426,48.0,Male,Sales,Manager,5,9,14433.501250192034,3,2,No
+EMP0996,32.0,Male,Sales,Sales Executive,6,14,4161.0606064129015,3,3,No
+EMP0452,44.0,Male,IT,IT Support,4,8,3325.5269106290916,4,3,No
+EMP0975,30.0,Male,Sales,Sales Representative,9,14,4150.9957412726,4,2,No
+EMP0743,28.0,Male,Human Resources,HR Representative,9,12,2951.3874015588217,1,3,No
+EMP0050,18.0,Male,Sales,Manager,4,5,9455.456221622244,3,3,No
+EMP0043,33.0,Male,Sales,Manager,8,12,12502.091817790146,4,3,No
+EMP0922,24.0,Male,Sales,Manager,8,10,12152.551347522389,3,2,No
+EMP0735,45.0,Male,Sales,Sales Representative,4,9,3818.590026076447,3,3,No
+EMP0595,45.0,Male,Human Resources,HR Manager,3,8,21319.83464452822,2,2,Yes
+EMP0420,35.0,Female,IT,Software Engineer,5,8,8500.792532592124,4,3,No
+EMP0533,34.0,Female,IT,Data Analyst,6,7,4710.058646850011,1,4,No
+EMP0602,25.0,Male,IT,Software Engineer,9,14,7928.0227942848705,2,4,No
+EMP0526,18.0,Male,Sales,Sales Executive,1,3,4006.6264204110894,4,4,Yes
+EMP0323,26.0,F ,Human Resources,HR Manager,3,10,23903.096336300223,3,3,No
+EMP0104,26.0,Female,Human Resources,HR Manager,8,11,,3,3,No
+EMP0140,22.0,Male,Sales,Sales Executive,5,6,2218.397570776676,1,3,No
+EMP0039,21.0,Female,Sales,Sales Executive,8,10,4248.796135479184,2,3,Yes
+EMP0683,29.0,Female,IT,IT Support,6,7,4509.927984820373,3,3,No
+EMP0044,31.0,Male,IT,Data Analyst,11,15,8178.830896119048,1,4,No
+EMP0999,29.0,Male,Human Resources,HR Manager,6,8,13840.466392261034,2,1,Yes
+EMP0707,22.0,Female,Human Resources,HR Manager,9,17,16460.662332333086,1,3,Yes
+EMP0575,,F,Research & Development,Laboratory Technician,11,22,4542.113176838918,2,4,Yes
+EMP0208,40.0,Male,Human Resources,HR Representative,4,10,4418.579332936477,1,3,No
+EMP0715,,Male,IT,Software Engineer,8,14,7606.9457318905925,4,4,No
+EMP0955,34.0,Male,Research & Development,Healthcare Representative,5,6,3710.702784902651,1,3,No
+EMP0026,,Male,Sales,Sales Executive,3,6,3076.1147960192984,3,2,No
+EMP0687,32.0,Male,Human Resources,HR Manager,4,9,,3,3,No
+EMP0484,37.0,Female,Sales,Manager,5,9,12871.679879529602,1,2,Yes
+EMP0509,35.0,Male,Human Resources,HR Representative,8,9,3027.674538572936,3,3,No
+EMP0230,41.0,Male,Sales,Manager,5,8,14721.30813463175,3,2,No
+EMP0114,59.0,Female,Human Resources,HR Manager,2,3,13598.25128370233,2,3,No
+EMP0965,34.0,Female,Sales,Sales Representative,7,9,5455.660403142888,1,4,No
+EMP0314,43.0,Male,IT,Data Analyst,4,11,7496.735466628087,3,1,No
+EMP0182,26.0,Female,Human Resources,HR Manager,10,16,13311.123805771582,4,4,No
+EMP0565,47.0,Female,Sales,Sales Representative,3,9,6137.454445575577,2,1,No
+EMP0548,32.0,Female,IT,Data Analyst,5,6,6164.4016269999875,1,2,No
+EMP0677,23.0,Male,Sales,Sales Executive,5,9,3112.5342680197878,2,3,Yes
+EMP0849,28.0,Male,Human Resources,HR Manager,3,7,18373.779884169475,1,3,No
+EMP0717,36.0,Female,Sales,Sales Executive,2,9,3391.9213544478534,3,3,No
+EMP0245,22.0,Female,Research & Development,Research Scientist,4,6,9076.837598992539,3,4,No
+EMP0475,51.0,Male,Human Resources,HR Manager,5,7,16770.68154533235,1,1,No
+EMP0266,22.0,Male,Human Resources,HR Manager,3,9,12032.871417580292,4,4,No
+EMP0270,36.0, M,Research & Development,Manufacturing Director,5,9,18523.937190025645,3,3,No
+EMP0972,28.0,Female,Sales,Manager,2,6,12067.556610644318,2,3,No
+EMP0481,33.0,Female,Sales,Sales Representative,2,3,3499.3447819542407,3,3,No
+EMP0971,36.0,Female,Sales,Sales Representative,4,8,3359.120863618626,1,4,Yes
+EMP0882,29.0,F ,IT,Data Analyst,9,11,7456.700895186349,3,3,No
+EMP0993,32.0,Male,Sales,Sales Executive,5,11,899.4816846246308,3,4,No
+EMP0231,27.0,Male,Sales,Manager,-6,9,14034.12025480157,4,3,No
+EMP0961,41.0,Male,Research & Development,Laboratory Technician,8,12,3190.638767749333,1,4,No
+EMP0469,29.0,Male,IT,IT Support,4,8,4211.2495177087185,3,3,No
+EMP0545,18.0,Male,IT,Data Analyst,4,10,8205.167137686394,2,2,Yes
+EMP0593,39.0,Female,Research & Development,Laboratory Technician,6,9,2954.0425161094136,2,3,Yes
+EMP0546,27.0,Male,Human Resources,HR Manager,9,10,12162.182204338775,3,3,No
+EMP0434,42.0,Female,Sales,Manager,-6,10,12606.810988530033,4,4,No
+EMP0710,51.0,Female,IT,Data Analyst,3,9,7386.72212346845,1,3,No
+EMP0246,31.0,Male,Human Resources,HR Manager,4,8,11288.007761357476,3,2,No
+EMP0943,41.0,Male,Human Resources,HR Representative,9,12,4080.983828074497,2,3,Yes
+EMP0433,,female,Human Resources,HR Manager,4,13,14897.500107329242,2,3,No
+EMP0742,22.0,Male,IT,IT Support,9,14,3303.879886461972,2,1,Yes
+EMP0714,38.0,Male,Sales,Manager,7,11,18081.67330726354,4,3,No
+EMP0521,18.0,Male,Human Resources,HR Manager,4,10,12976.25264337525,2,3,No
+EMP0613,37.0,Male,IT,Data Analyst,5,9,6505.474044190056,3,2,No
+EMP0678,52.0,Male,Human Resources,HR Manager,4,7,,4,2,No
+EMP0598,25.0,M,Human Resources,HR Manager,1,4,18839.915110000467,4,2,No
+EMP0328,42.0,Female,Sales,Sales Representative,5,9,2481.2757039196567,2,3,Yes
+EMP0061,30.0,Female,Research & Development,Laboratory Technician,-8,15,3747.448880090153,4,3,No
+EMP0464,37.0,Male,Research & Development,Manufacturing Director,4,8,12566.97054408754,2,3,Yes
+EMP0077,35.0,Female,Research & Development,Manufacturing Director,6,9,20166.302425486017,3,3,No
+EMP0478,38.0,Female,IT,Data Analyst,5,6,9679.200167080082,2,3,Yes
+EMP0792,37.0,Female,IT,Software Engineer,4,11,,3,3,No
+EMP0294,43.0,Female,Sales,Sales Executive,2,8,4134.013160414098,3,3,No
+EMP0138,31.0,Female,Human Resources,HR Representative,6,7,4629.661158876208,3,3,No
+EMP0944,34.0,Male,IT,Software Engineer,5,7,8225.767989801087,3,3,No
+EMP0345,,Male,Sales,Sales Executive,6,9,4176.713303705359,2,3,Yes
+EMP0465,33.0,Male,Human Resources,HR Manager,7,11,,4,3,No
+EMP0673,31.0,Male,Research & Development,Laboratory Technician,3,6,2772.9636006936735,4,2,Yes
+EMP0336,33.0,Male,IT,Data Analyst,2,5,11056.84451572433,1,3,No
+EMP0363,33.0,Male,Human Resources,HR Manager,-5,7,12645.061102668398,4,3,Yes
+EMP0874,27.0,Male,IT,IT Support,3,7,1857.0554383068475,3,2,No
+EMP0316,35.0,Female,Sales,Manager,6,10,19830.411612527612,2,1,Yes
+EMP0005,32.0,Male,IT,IT Support,8,12,3475.7797858821323,1,3,No
+EMP0784,41.0,Female,Human Resources,HR Representative,9,15,3437.876063557299,1,3,No
+EMP0891,,Female,Human Resources,HR Representative,10,12,4676.522108011246,3,4,Yes
+EMP0626,29.0,Male,Sales,Sales Representative,3,11,3028.743186110768,1,4,Yes
+EMP0126,56.0,Male,Research & Development,Healthcare Representative,2,5,3681.7994089136064,4,3,No
+EMP0091,35.0,Female,Sales,Sales Executive,6,9,4159.468414437655,2,3,No
+EMP0938,42.0,Female,Sales,Manager,6,11,15727.93302017256,3,3,No
+EMP0648,34.0,Female,IT,IT Support,7,10,3262.4324290376526,4,3,No
+EMP0253,56.0,M,Human Resources,HR Manager,10,13,11537.263768069846,3,4,No
+EMP0739,51.0,F,Research & Development,Healthcare Representative,4,7,2288.6737815908164,2,3,Yes
+EMP0947,19.0,Female,Sales,Sales Representative,6,9,3780.808455281177,4,2,No
+EMP0762,36.0,Male,Sales,Sales Representative,5,11,4611.071254166834,1,3,Yes
+EMP0535,28.0,Female,Research & Development,Manufacturing Director,2,5,15844.783230041154,2,2,No
+EMP0900,26.0,Male,Human Resources,HR Representative,4,11,3392.267916654597,3,3,No
+EMP0753,25.0,Male,IT,IT Support,7,10,3381.2120687450933,3,3,No
+EMP0959,40.0,Female,Sales,Sales Executive,8,10,4121.248167191468,1,3,No
+EMP0390,,Female,Human Resources,HR Representative,3,10,,2,2,Yes
+EMP0800,35.0,Female,Research & Development,Research Scientist,5,11,7811.235701388997,2,3,No
+EMP0092,44.0,Male,IT,IT Support,7,12,5004.49002636982,3,3,No
+EMP0912,37.0,Female,Human Resources,HR Representative,4,7,2992.2222097303584,1,2,No
+EMP0744,35.0,Male,IT,IT Support,8,12,4372.10422974605,1,3,No
+EMP0967,28.0,Female,IT,Data Analyst,8,10,4281.233105688625,3,3,No
+EMP0661,29.0,Female,Sales,Manager,8,12,14788.695511267719,2,3,No
+EMP0123,49.0,Male,Research & Development,Manufacturing Director,4,10,22891.86984066195,3,4,No
+EMP0059,38.0,Male,Human Resources,HR Representative,6,12,3562.261278217524,1,2,No
+EMP0135,25.0,Male,Sales,Manager,2,4,10914.82567027309,2,4,Yes
+EMP0689,42.0,Male,Research & Development,Research Scientist,4,9,7902.551393455498,4,3,No
+EMP0488,24.0,Female,IT,Data Analyst,2,7,7232.521615269062,2,3,No
+EMP0665,27.0,Male,Research & Development,Research Scientist,6,12,7404.505929909885,3,3,No
+EMP0940,29.0,Female,Research & Development,Healthcare Representative,8,11,4878.764961659954,4,3,No
+EMP0790,18.0,Male,IT,Software Engineer,3,9,5194.574086604542,2,3,No
+EMP0818,43.0,Female,Human Resources,HR Manager,7,12,17690.929614916804,3,2,No
+EMP0137,27.0,Male,Sales,Manager,7,15,15692.095295764608,3,3,No
+EMP0449,29.0,Male,Research & Development,Healthcare Representative,5,10,4431.533478591583,2,2,Yes
+EMP0787,43.0,Male,Human Resources,HR Manager,5,8,,3,2,No
+EMP0894,46.0,Female,Human Resources,HR Representative,4,6,4279.200148722758,3,2,No
+EMP0797,34.0,Male,IT,Software Engineer,4,8,8139.059568743603,1,2,Yes
+EMP0795,24.0,Female,Human Resources,HR Representative,4,7,,4,1,No
+EMP0038,18.0,Female,Human Resources,HR Representative,8,14,3357.852207119309,4,3,Yes
+EMP0446,41.0,Female,Research & Development,Research Scientist,2,5,4388.295172002279,1,3,No
+EMP0410,40.0,Male,Human Resources,HR Representative,6,9,3232.053338894966,1,3,Yes
+EMP0677,23.0,Male,Sales,Sales Executive,5,9,3112.5342680197878,2,3,Yes
+EMP0978,18.0,Female,Human Resources,HR Manager,1,7,14463.996703035547,1,2,Yes
+EMP0257,47.0,Female,Research & Development,Manufacturing Director,4,7,14272.01994352158,3,4,No
+EMP0320,33.0,Female,Sales,Sales Executive,3,5,3479.636490162885,3,4,No
+EMP0313,43.0,Male,Human Resources,HR Representative,5,8,4229.083511809759,4,3,Yes
+EMP0701,29.0,Female,IT,Software Engineer,5,11,6771.2907814289865,3,4,Yes
+EMP0006,32.0,Female,Sales,Sales Representative,2,5,5018.704497521347,1,3,Yes
+EMP0835,34.0,Male,Research & Development,Healthcare Representative,1,4,3152.3163577485648,4,3,Yes
+EMP0609,18.0,Female,Research & Development,Research Scientist,3,5,5839.101145811863,3,3,No
+EMP0909,41.0,Female,Human Resources,HR Representative,6,9,3200.068128407791,3,3,No
+EMP0211,40.0,Female,Human Resources,HR Manager,3,6,15387.502518887197,1,2,Yes
+EMP0445,21.0,Female,Sales,Manager,7,11,16176.190835924828,3,2,No
+EMP0223,41.0,Male,IT,IT Support,4,6,3242.2101521781183,2,3,Yes
+EMP0221,,Female,Research & Development,Healthcare Representative,6,6,2904.577147761547,4,3,No
+EMP0280,31.0,Male,Sales,Sales Executive,4,10,5494.071144003417,3,2,No
+EMP0542,23.0,male,Research & Development,Laboratory Technician,2,6,4251.475818997782,3,2,No
+EMP0069,38.0,Female,Sales,Sales Executive,3,7,2265.6566112756122,3,3,No
+EMP0464,37.0,Male,Research & Development,Manufacturing Director,4,8,12566.97054408754,2,3,Yes
+EMP0458,24.0,Male,Sales,Sales Representative,3,7,5726.873403339546,4,3,No
+EMP0791,39.0,Male,Research & Development,Healthcare Representative,11,17,2003.029114429367,2,2,Yes
+EMP0907,21.0,male,IT,Data Analyst,5,8,,1,2,No
+EMP0060,44.0,Female,IT,Software Engineer,6,13,8246.05112505631,4,3,No
+EMP0400,47.0,Male,Human Resources,HR Representative,2,3,4983.0486529061045,3,4,No
+EMP0697,38.0,F ,Research & Development,Manufacturing Director,4,10,17623.940038767454,2,3,No
+EMP0779,34.0,Female,Research & Development,Laboratory Technician,3,7,2656.666897721334,1,3,No
+EMP0297,43.0,Male,Human Resources,HR Representative,5,9,,4,3,No
+EMP0286,18.0,Male,Sales,Manager,-5,10,10582.393449419902,2,3,No
+EMP0767,34.0,Female,Research & Development,Research Scientist,4,11,6985.839140924332,4,2,No
+EMP0145,37.0,Female,Human Resources,HR Manager,15,20,12940.942266563441,3,2,No
+EMP0062,33.0,Male,Sales,Manager,7,12,11292.298362123169,2,3,Yes
+EMP0688,31.0,Male,Sales,Sales Executive,4,8,2366.1343361062573,3,3,Yes
+EMP0680,47.0,Female,Sales,Manager,4,7,17816.852733602464,3,2,No
+EMP0587,30.0,Female,IT,Data Analyst,6,9,6353.3727270936815,4,1,No
+EMP0601,42.0,Female,Research & Development,Research Scientist,4,10,5740.652728989001,1,1,Yes
+EMP0808,30.0,Female,Sales,Sales Executive,1,7,6655.760448912665,4,3,No
+EMP0559,,Female,Sales,Sales Representative,4,10,4584.363489046177,2,3,Yes
+EMP0454,40.0,Male,Sales,Manager,4,8,11497.82032512353,4,2,No
+EMP0770,53.0,Female,Human Resources,HR Manager,2,7,16922.677665463267,4,2,No
+EMP0651,53.0,Male,Human Resources,HR Manager,7,12,,4,3,No
+EMP0083,49.0,Male,Research & Development,Research Scientist,4,7,9457.24992873244,1,4,No
+EMP0920,36.0,male,Research & Development,Healthcare Representative,5,10,6220.87060697289,3,3,No
+EMP0422,52.0,Female,Sales,Sales Representative,3,8,5227.330630051769,1,4,No
+EMP0855,49.0,Male,IT,Data Analyst,4,7,,3,3,No
+EMP0186,42.0,Male,IT,Software Engineer,5,10,10578.581745075347,4,2,No
+EMP0399,33.0,Male,Sales,Sales Executive,5,12,4005.4603775732394,3,3,No
+EMP0268,20.0,Male,Research & Development,Research Scientist,4,7,5530.1162134393,1,4,No
+EMP0409,36.0,M,Human Resources,HR Representative,5,6,3024.0888298433415,1,3,No
+EMP0660,33.0,Female,Human Resources,HR Manager,6,9,18595.652109336243,2,3,No
+EMP0940,29.0,Female,Research & Development,Healthcare Representative,8,11,4878.764961659954,4,3,No
+EMP0144,36.0,Female,Human Resources,HR Representative,5,7,4282.290089888676,1,4,No
+EMP0081,,Male,Human Resources,HR Representative,5,14,4363.573399229261,2,3,Yes
+EMP0708,52.0,Male,IT,IT Support,5,8,3963.58037659105,4,3,Yes
+EMP0022,32.0,Female,Sales,Sales Representative,-7,11,4029.8729345614975,3,3,No
+EMP0793,37.0,Female,IT,Software Engineer,6,10,4136.567239720998,3,3,No
+EMP0540,29.0,Female,Human Resources,HR Manager,8,12,16594.305959810954,2,2,Yes
+EMP0897,33.0,Female,Research & Development,Manufacturing Director,10,11,15919.734825445403,3,1,No
+EMP0386,36.0,Female,Human Resources,HR Manager,7,14,17293.32636299105,4,3,No
+EMP0618,42.0,Male,Sales,Sales Representative,5,13,3824.3298792335136,1,3,Yes
+EMP0158,39.0,Female,Sales,Manager,5,8,14577.353491036862,1,2,No
+EMP0756,61.0,Male,Sales,Manager,6,9,14943.545844323478,4,3,No
+EMP0554,37.0,Female,Human Resources,HR Manager,6,13,17732.345750838387,1,3,No
+EMP0329,41.0,Male,Sales,Sales Executive,10,17,3875.553020397984,2,3,Yes
+EMP0285,,Male,IT,Software Engineer,4,6,,2,3,No
+EMP0075,18.0,Female,Research & Development,Laboratory Technician,2,3,4100.621546210183,3,3,No
+EMP0826,,Male,IT,IT Support,7,11,4419.225648751024,3,4,No
+EMP0215,31.0,Female,Sales,Sales Representative,4,9,,2,4,No
+EMP0997,,Male,Sales,Manager,7,12,11293.086529537943,3,3,No
+EMP0502,54.0,Male,Research & Development,Healthcare Representative,2,11,3694.5130489473636,3,3,No
+EMP0428,41.0,Male,IT,Data Analyst,3,6,9411.284086511941,3,2,No
+EMP0632,50.0,Male,Research & Development,Healthcare Representative,2,8,3076.7638643302303,4,4,No
+EMP0917,41.0,Male,IT,Data Analyst,7,9,10577.064678096978,3,3,No
+EMP0859,29.0,Male,IT,IT Support,2,5,3001.974393675041,4,4,No
+EMP0343,37.0,Female,IT,IT Support,6,10,3281.5285787254675,4,2,Yes
+EMP0154,37.0,Female,Human Resources,HR Manager,2,5,8900.090803184885,3,3,No
+EMP0288,40.0,Male,Sales,Manager,5,8,17178.764249527383,2,3,Yes
+EMP0517,40.0,Male,Research & Development,Laboratory Technician,10,11,3484.1812693709257,3,3,No
+EMP0724,42.0,Female,Research & Development,Manufacturing Director,6,8,17357.112168790078,4,1,No
+EMP0066,48.0,M,Research & Development,Research Scientist,-2,8,8324.706396524474,4,3,No
+EMP0443,18.0,Male,IT,Data Analyst,4,7,7603.307328163884,1,3,Yes
+EMP0534,22.0,Male,Research & Development,Laboratory Technician,5,10,4317.647123722883,3,3,No
+EMP0893,45.0,Female,IT,Data Analyst,1,6,7841.347763029688,1,3,No
+EMP0506,30.0,F,Human Resources,HR Representative,4,14,3686.2132632762505,3,3,No
+EMP0151,37.0,Female,IT,IT Support,3,9,4043.5503774319973,3,4,No
+EMP0202,40.0,Male,Human Resources,HR Manager,8,12,14841.297528610508,2,3,Yes
+EMP0439,18.0,male,Human Resources,HR Representative,4,8,3327.7187972517036,4,3,No
+EMP0447,38.0,Female,Human Resources,HR Manager,5,6,16185.527877674436,4,3,No
+EMP0181,41.0,Female,Research & Development,Research Scientist,5,7,7809.353103819364,3,3,No
+EMP0605,,Female,Research & Development,Research Scientist,8,15,5721.105164948905,2,2,No
+EMP0845,36.0,Female,Human Resources,HR Manager,0,8,19367.120784708877,3,4,No
+EMP0277,36.0,Female,Human Resources,HR Representative,5,10,,4,3,Yes
+EMP0190,19.0,Male,Research & Development,Laboratory Technician,6,7,3657.450972167741,4,2,No
+EMP0690,39.0,Male,Sales,Sales Executive,4,7,3745.5112540667824,4,3,No
+EMP0681,42.0,Male,Sales,Sales Executive,5,11,2124.621600081776,4,4,No
+EMP0052,31.0,Male,Sales,Sales Executive,6,11,4474.947285885353,2,3,Yes
+EMP0567,18.0, M,Sales,Sales Executive,5,10,3349.526186618031,1,3,No
+EMP0273,46.0,Female,Sales,Sales Executive,8,9,2568.013238919729,4,2,No
+EMP0366,30.0,Male,Sales,Sales Representative,4,9,3993.2163600006784,1,3,Yes
+EMP0121,42.0,Male,Research & Development,Manufacturing Director,2,6,7503.007620457169,1,3,No
+EMP0586,37.0,Female,Research & Development,Research Scientist,1,8,6699.021831821984,4,3,No
+EMP0096,,Male,Sales,Sales Executive,1,4,4472.174769562405,3,3,No
+EMP0615,59.0,Male,Human Resources,HR Representative,3,5,1057.7455878771789,2,2,No
+EMP0097,37.0,Male,Human Resources,HR Representative,-8,9,3740.164883899636,2,3,No
+EMP0391,26.0,F ,Sales,Sales Representative,4,6,3676.9768543518253,4,3,No
+EMP0941,22.0,Female,Human Resources,HR Representative,5,10,3689.556019456338,3,4,No
+EMP0844,38.0,Female,IT,IT Support,9,14,3739.4859660576244,1,3,No
+EMP0813,49.0,Male,Human Resources,HR Manager,3,7,16973.52001946703,1,3,No
+EMP0371,35.0,male,Research & Development,Research Scientist,6,10,,2,3,No
+EMP0620,37.0,Female,Sales,Manager,3,5,14285.625484965076,1,4,Yes
+EMP0749,28.0,Female,IT,IT Support,6,10,2631.7362403043444,3,3,Yes
+EMP0330,41.0,Female,Human Resources,HR Representative,4,9,4613.703247372054,4,4,No
+EMP0087,44.0,Female,IT,Software Engineer,5,8,11899.91303877468,4,2,No
+EMP0471,,Female,Sales,Manager,7,9,11839.457516258026,2,3,No
+EMP0604,,Female,Human Resources,HR Manager,6,9,15415.58185831416,4,3,No
+EMP0682,23.0,Male,IT,IT Support,5,8,4639.202082955167,3,3,No
+EMP0754,45.0,Male,Research & Development,Manufacturing Director,6,12,19510.047192977283,3,2,No
+EMP0572,51.0,Male,Human Resources,HR Representative,3,13,3511.469298300315,4,3,No
+EMP0712,34.0,Female,Human Resources,HR Manager,5,6,7302.205297959838,3,4,No
+EMP0740,45.0,Male,Sales,Sales Representative,4,7,2509.798215218468,4,2,No
+EMP0634,30.0,Male,IT,Data Analyst,4,9,,4,4,No
+EMP0047,30.0,Female,IT,IT Support,10,15,,3,3,No
+EMP0898,36.0,F,Sales,Sales Representative,6,12,5407.095240414778,4,3,No
+EMP0189,26.0,Male,Human Resources,HR Manager,3,4,11193.143059625447,2,3,No
+EMP0369,35.0,Female,IT,Software Engineer,6,10,6995.803952782677,4,3,No
+EMP0802,29.0,Female,Sales,Sales Executive,7,12,4400.838637503098,3,3,No
+EMP0073,34.0,Male,Human Resources,HR Representative,-6,14,2930.160303884516,4,3,No
+EMP0811,33.0,Female,Research & Development,Laboratory Technician,6,11,4905.265139252256,2,4,Yes
+EMP0582,30.0,Male,IT,IT Support,7,11,1642.1642568002271,2,3,Yes
+EMP0156,27.0,Female,IT,Data Analyst,5,8,6135.291746351355,3,3,No
+EMP0401,19.0,Male,Research & Development,Healthcare Representative,3,10,2826.58697375468,4,3,Yes
+EMP0764,34.0,Male,Sales,Sales Executive,10,12,4181.903536687581,4,3,No
+EMP0958,39.0,Female,Research & Development,Research Scientist,-2,5,10944.741435054737,4,1,No
+EMP0291,32.0,Female,Research & Development,Research Scientist,5,11,8173.486075636412,1,4,No
+EMP0176,43.0,Female,Human Resources,HR Representative,4,8,,4,2,No
+EMP0237,18.0,Female,Human Resources,HR Manager,3,8,9567.040902751636,3,4,No
+EMP0921,45.0,Female,IT,Software Engineer,6,13,6782.1681408085915,2,2,Yes
+EMP0479,65.0,Female,Sales,Sales Representative,-2,7,2838.9447612464123,3,3,No
+EMP0929,50.0,Male,Sales,Sales Executive,2,6,3703.6970024958932,3,2,No
+EMP0771,42.0,Male,Sales,Manager,12,15,9326.280772569837,2,1,No
+EMP0760,,Female,Human Resources,HR Representative,9,14,3763.7413633749866,3,4,No
+EMP0107,53.0,Male,Research & Development,Research Scientist,6,7,10609.0959696278,3,3,No
+EMP0103,31.0,Female,Research & Development,Research Scientist,3,4,4915.645831114345,3,3,Yes
+EMP0590,26.0,Male,Sales,Sales Representative,4,13,4981.246530064431,1,2,Yes
+EMP0275,25.0,Female,Sales,Sales Executive,6,9,,3,3,No
+EMP0692,46.0,Male,IT,Software Engineer,6,7,7090.983905291451,4,4,No
+EMP0741,18.0,Male,IT,Data Analyst,-2,7,9465.698259344012,4,3,No
+EMP0880,46.0,Female,IT,Data Analyst,4,8,7811.674812799632,3,3,No
+EMP0945,,Female,Sales,Sales Executive,6,11,3457.3545121871903,2,2,Yes
+EMP0919,30.0,Female,IT,IT Support,2,4,3258.792864797917,2,3,No
+EMP0084,29.0,Female,Sales,Sales Representative,3,8,5138.430116561638,2,3,No
+EMP0309,40.0,Male,IT,IT Support,4,12,5083.835889910897,1,3,No
+EMP0810,26.0,Male,IT,Software Engineer,6,15,11654.629412281336,2,2,No
+EMP0655,,Male,Sales,Sales Executive,1,2,4466.7947742561355,3,2,No
+EMP0252,44.0,Female,Research & Development,Laboratory Technician,11,15,3894.8342659228197,3,3,No
+EMP0021,49.0,Male,Sales,Sales Executive,7,12,3793.3565515514033,3,3,No
+EMP0837,50.0,Female,IT,IT Support,9,10,2243.5892936154464,3,4,No
+EMP0552,33.0, M,Research & Development,Manufacturing Director,7,11,17328.014232128124,3,1,No
+EMP0863,50.0,Male,Sales,Sales Executive,6,9,3099.069055150632,1,3,No
+EMP0976,18.0,Male,Research & Development,Laboratory Technician,6,15,4708.960680737031,1,3,No
+EMP0468,42.0,Male,Research & Development,Research Scientist,4,7,9558.081488068015,3,1,No
+EMP0007,,Male,Research & Development,Healthcare Representative,3,7,4117.222090235676,1,3,No
+EMP0732,25.0,Female,Research & Development,Laboratory Technician,4,8,2910.5784528017225,4,3,No
+EMP0782,,Male,Research & Development,Laboratory Technician,5,9,3817.528519496494,2,3,No
+EMP0012,30.0,F ,IT,Software Engineer,9,12,5895.740473979862,3,3,No
+EMP0968,53.0,Male,Sales,Sales Executive,3,10,3731.293098750699,1,2,No
+EMP0100,,Female,Sales,Sales Representative,-3,7,2893.403609233406,1,2,No
+EMP0018,38.0,Female,Sales,Sales Representative,3,7,3096.7940768716344,4,3,No
+EMP0076,43.0,Male,Research & Development,Manufacturing Director,7,11,18398.608271160138,3,3,No
+EMP0299,43.0,Female,Research & Development,Healthcare Representative,3,5,4109.8705249952845,3,3,No
+EMP0576,18.0,Male,Research & Development,Laboratory Technician,5,6,3448.8675321303003,2,3,No
+EMP0278,28.0,Female,Research & Development,Manufacturing Director,9,14,15974.765223084094,2,4,Yes
+EMP0766,27.0,Male,Research & Development,Manufacturing Director,4,10,15919.35532028754,2,3,No
+EMP0142,48.0,F,Research & Development,Healthcare Representative,1,7,4929.839523972443,4,3,No
+EMP0827,,Female,Sales,Sales Executive,-5,9,4865.038145130862,1,3,Yes
+EMP0862,19.0,Male,Sales,Manager,8,10,13211.932810502438,1,3,No
+EMP0023,35.0,Male,Sales,Sales Representative,3,7,3603.7996765222715,3,3,No
+EMP0515,29.0,Female,Sales,Sales Executive,5,9,5208.347901880936,1,3,Yes
+EMP0630,45.0,Male,IT,Software Engineer,5,6,8284.511015115826,2,4,No
+EMP0441,38.0,Male,IT,IT Support,4,9,2907.1176857457212,2,3,Yes
+EMP0146,42.0,Male,Sales,Manager,6,10,16607.108334802295,4,2,No
+EMP0596,29.0,Male,IT,Software Engineer,5,11,4818.870473650087,4,3,No
+EMP0499,26.0,Male,Sales,Manager,4,7,17769.998075367785,3,3,No
+EMP0939,37.0,Female,Research & Development,Research Scientist,4,9,6827.309911481505,1,3,No
+EMP0809,47.0,Female,IT,Software Engineer,3,5,9513.369221177314,3,2,No
+EMP0930,34.0,Male,Research & Development,Manufacturing Director,4,7,17537.051612084477,3,3,No
+EMP0282,,Female,IT,Software Engineer,4,7,7795.586458097166,3,3,No
+EMP0873,21.0,Female,Research & Development,Research Scientist,4,9,9362.684851309512,4,3,No
+EMP0403,35.0,Female,Human Resources,HR Representative,3,7,5061.689522816587,4,3,No
+EMP0643,32.0, M,Human Resources,HR Representative,8,9,4239.993505126681,4,3,No
+EMP0014,18.0,Female,Research & Development,Research Scientist,2,7,8495.549403771702,4,3,No
+EMP0512,34.0,M,Research & Development,Healthcare Representative,8,11,2012.10312048847,4,2,Yes
+EMP0493,35.0,Male,IT,Software Engineer,5,9,9271.06329932365,4,1,No
+EMP0311,32.0,Male,IT,Software Engineer,7,11,6316.678766058076,2,2,No
+EMP0759,,Female,IT,Data Analyst,5,10,9733.143047565001,4,4,No
+EMP0913,37.0,Male,Human Resources,HR Representative,2,8,4825.885381675968,3,2,No
+EMP0429,45.0,Female,Human Resources,HR Manager,5,11,12359.12532309217,3,3,No
+EMP0700,33.0,Female,Research & Development,Laboratory Technician,7,10,,2,1,No
+EMP0866,31.0,Female,Research & Development,Healthcare Representative,5,11,3227.16167789082,2,2,No
+EMP0249,52.0,Female,Research & Development,Manufacturing Director,-5,11,13888.981660400317,1,3,Yes
+EMP0549,38.0,Female,Research & Development,Manufacturing Director,8,13,11301.883438414397,4,3,No
+EMP0520,42.0,Female,Human Resources,HR Representative,6,13,4968.306513259968,4,2,No
+EMP0334,28.0,Male,Research & Development,Healthcare Representative,9,14,4083.110971564664,2,2,No
+EMP0577,37.0,Male,Research & Development,Manufacturing Director,5,9,17450.269421771034,4,3,No
+EMP0281,36.0,Male,Sales,Sales Executive,5,8,3280.1089712772614,2,3,Yes
+EMP0453,25.0,Female,Research & Development,Healthcare Representative,5,13,4780.840010473714,4,3,No
+EMP0845,36.0,Female,Human Resources,HR Manager,0,8,19367.120784708877,3,4,No
+EMP0796,45.0,Female,Sales,Sales Representative,10,12,2756.811358534358,3,3,No
+EMP0004,50.0,Female,IT,IT Support,10,11,5389.863702350658,4,1,No
+EMP0557,30.0,Female,Sales,Sales Executive,5,8,3809.6369366819417,4,3,Yes
+EMP0750,20.0,Female,IT,Software Engineer,6,10,4778.007135902417,4,3,No
+EMP0956,46.0,Female,Research & Development,Healthcare Representative,6,10,6538.908373626735,3,3,No
+EMP0155,37.0,Male,Research & Development,Research Scientist,3,6,7523.088611162234,3,3,No
+EMP0807,37.0,Male,Human Resources,HR Manager,5,11,9736.670720227898,2,3,No
+EMP0727,35.0,Female,Sales,Sales Executive,7,9,2861.3841662186733,4,3,Yes
+EMP0099,35.0,Male,Human Resources,HR Manager,4,5,13467.713941615131,3,2,No
+EMP0507,29.0,Male,Research & Development,Research Scientist,7,10,9970.159538977216,1,3,No
+EMP0508,26.0,Male,Human Resources,HR Manager,3,6,16158.943514428536,3,3,No
+EMP0725,36.0,Female,IT,Software Engineer,-6,7,8790.835150868485,1,3,Yes
+EMP0723,21.0,Male,Human Resources,HR Manager,3,8,9777.214259788769,4,2,No
+EMP0758,36.0,Female,Sales,Manager,7,13,11007.57897646461,2,3,No
+EMP0102,30.0,Male,Research & Development,Manufacturing Director,2,9,12608.79972438164,1,3,No
+EMP0368,,Male,IT,Software Engineer,6,10,9119.285743803133,3,3,No
+EMP0112,34.0,Female,Sales,Sales Executive,3,12,2882.078336423092,3,3,Yes
+EMP0016,29.0,Female,Research & Development,Manufacturing Director,9,13,9909.575735721823,3,3,No
+EMP0167,43.0,Male,Research & Development,Laboratory Technician,4,7,,3,3,No
+EMP0001,39.0,Male,Research & Development,Manufacturing Director,8,11,17577.73174905627,3,3,No
+EMP0669,18.0,Female,Human Resources,HR Manager,4,7,14330.42114122139,2,3,No
+EMP0858,39.0,Female,Human Resources,HR Representative,3,8,3876.182906816595,1,3,Yes
+EMP0129,35.0,Female,Sales,Manager,3,10,16127.287285052491,2,4,No
+EMP0374,44.0,Female,Research & Development,Research Scientist,6,12,,3,2,Yes
+EMP0198,36.0,Male,Sales,Sales Representative,4,7,4483.055869495801,2,3,Yes
+EMP0165,44.0,Male,IT,IT Support,3,8,3506.219649517633,4,3,No
+EMP0118,23.0, M,Research & Development,Healthcare Representative,3,11,3569.7258783105294,3,4,No
+EMP0338,31.0,Female,Human Resources,HR Manager,3,6,12061.39555913303,2,3,Yes
+EMP0326,22.0,Male,IT,Data Analyst,4,12,11686.01211466698,3,3,No
+EMP0147,22.0,F ,Human Resources,HR Representative,3,5,4839.894734285837,3,2,Yes
+EMP0254,45.0,Female,Sales,Sales Executive,-7,14,5095.512230345912,3,3,No
+EMP0470,29.0, M,Research & Development,Research Scientist,4,6,9186.074547859496,4,4,No
+EMP0867,37.0,Male,IT,Software Engineer,3,9,9287.001073194377,2,2,Yes
+EMP0778,,Female,Research & Development,Laboratory Technician,6,9,2984.9261769920013,2,3,Yes
+EMP0816,20.0,Male,Research & Development,Research Scientist,4,7,5650.629812090868,3,3,No
+EMP0026,,Male,Sales,Sales Executive,3,6,3076.1147960192984,3,2,No
+EMP0157,53.0,F,Human Resources,HR Manager,7,10,18542.40918169869,4,3,No
+EMP0204,,Female,Research & Development,Research Scientist,2,4,5618.104191884435,3,3,No
+EMP0048,45.0,Female,IT,IT Support,4,8,4167.842305582312,3,3,Yes
+EMP0918,36.0,Female,Research & Development,Healthcare Representative,1,6,3271.20338556286,3,3,No
+EMP0633,33.0,Female,Sales,Sales Representative,5,8,3986.8038676182478,4,3,No
+EMP0243,40.0,Male,Human Resources,HR Representative,9,15,4304.333671893751,1,3,No
+EMP0570,31.0,Female,Human Resources,HR Representative,5,7,4537.619803519589,2,3,No
+EMP0152,38.0,Female,Sales,Manager,3,4,15893.342889511941,2,4,Yes
+EMP0987,50.0,Male,IT,Software Engineer,7,11,7998.694915805961,3,3,No
+EMP0591,35.0,Male,IT,Data Analyst,-7,13,7844.328100352233,2,3,No
+EMP0364,39.0,Male,Human Resources,HR Representative,2,4,,4,3,No
+EMP0413,19.0,Female,IT,IT Support,3,5,5090.845020531771,4,4,No
+EMP0035,43.0,Female,Human Resources,HR Representative,6,10,4232.446287587911,1,3,No
+EMP0207,40.0,Male,IT,IT Support,6,13,3161.581380311899,3,3,No
+EMP0431,23.0,Male,Research & Development,Laboratory Technician,4,9,4500.559671897648,1,3,No
+EMP0600,38.0,Female,IT,Data Analyst,6,7,6796.9999166804,3,3,No
+EMP0821,29.0,Male,Research & Development,Manufacturing Director,4,7,10806.5639925461,4,4,No
+EMP0769,28.0, M,IT,Software Engineer,8,11,3911.642193809301,2,1,Yes
+EMP0981,,Female,Research & Development,Research Scientist,3,7,7732.671088720245,1,3,No
+EMP0896,41.0,Female,Sales,Sales Representative,6,8,4211.165301009032,2,1,Yes
+EMP0030,32.0,Male,Human Resources,HR Manager,1,6,17609.508848947757,2,3,No
+EMP0019,25.0,Male,Sales,Sales Representative,9,10,4648.931056032922,3,3,No
+EMP0247,30.0,Female,IT,Data Analyst,4,6,8154.76655366811,2,3,No
+EMP0034,24.0,Male,IT,IT Support,3,5,3819.2424220297735,4,3,No
+EMP0642,51.0,Female,Human Resources,HR Representative,5,10,4227.4597786057475,4,3,No
+EMP0024,20.0,Male,Sales,Manager,4,10,15790.611770782483,2,3,Yes
+EMP0525,27.0,Male,IT,Data Analyst,5,9,8140.588697077796,1,3,No
+EMP0398,48.0,Male,IT,IT Support,5,7,5356.72486839267,1,4,No
+EMP0033,,Female,Sales,Sales Executive,-1,3,,2,3,Yes
+EMP0801,44.0,Female,Research & Development,Laboratory Technician,4,6,3144.2793652463124,4,2,No
+EMP0089,29.0,Female,IT,Data Analyst,6,8,7516.305019993064,3,3,No
+EMP0117,34.0,Male,IT,Data Analyst,4,10,6933.334554569082,3,3,No
+EMP0332,26.0,Male,Research & Development,Manufacturing Director,2,12,18015.52411310497,4,2,No
+EMP0450,24.0,Male,Research & Development,Manufacturing Director,4,9,14360.067136654632,3,2,No
+EMP0427,25.0,Male,IT,Software Engineer,5,9,7980.769043272713,1,3,No
+EMP0227,35.0,Male,Sales,Sales Executive,2,4,2900.8089089971613,1,4,Yes
+EMP0830,32.0,Female,Human Resources,HR Manager,2,9,17444.46816074432,1,2,No
+EMP0699,44.0,female,Sales,Sales Executive,1,6,3325.886389018828,1,3,Yes
+EMP0691,31.0,Female,Sales,Sales Executive,6,8,3427.252896924627,4,3,No
+EMP0380,26.0,Male,IT,IT Support,3,6,,2,3,No
+EMP0312,45.0,Female,Human Resources,HR Manager,4,9,13528.297276075986,2,4,Yes
+EMP0028,,Male,Human Resources,HR Manager,5,7,18025.06254957145,3,3,No
+EMP0351,38.0,Male,IT,Data Analyst,3,6,10612.78501627376,4,3,No
+EMP0395,46.0,male,Human Resources,HR Representative,5,9,4164.911372411841,3,2,No
+EMP0566,30.0,Female,Human Resources,HR Representative,0,6,,1,4,Yes
+EMP0581,38.0,female,IT,Software Engineer,5,6,8116.383255973211,4,3,No
+EMP0731,36.0,Female,IT,IT Support,2,5,3997.012829795161,4,3,Yes
+EMP0120,42.0,Female,Sales,Sales Executive,0,2,2519.643721997105,3,3,No
+EMP0240,43.0,Male,Sales,Sales Executive,5,7,3732.0907516344437,2,2,No
+EMP0852,29.0,Male,Human Resources,HR Representative,5,12,2688.812166483147,2,3,No
+EMP0915,34.0,Female,Sales,Sales Executive,6,11,5830.368729375612,2,3,No
+EMP0261,25.0,Female,Sales,Manager,0,5,18272.532989758318,4,3,No
+EMP0663,34.0,Female,Research & Development,Healthcare Representative,4,6,3331.2614813308614,2,3,No
+EMP0514,25.0,Male,Sales,Sales Representative,6,9,7101.186717683017,3,1,No
+EMP0424,44.0,Male,Sales,Sales Executive,3,5,5053.953625489285,1,3,Yes
+EMP0629,35.0,Female,Research & Development,Laboratory Technician,2,5,4451.152819738623,4,2,No
+EMP0310,32.0,Male,Sales,Sales Representative,4,8,3975.821842578877,3,4,No
+EMP0825,30.0,Female,IT,Software Engineer,4,9,,3,2,No
+EMP0307,47.0,Male,Research & Development,Laboratory Technician,5,8,2388.0839826912998,3,4,Yes
+EMP0184,39.0,Male,Research & Development,Laboratory Technician,5,7,5108.5762803182715,1,3,No
+EMP0335,44.0,Female,Sales,Manager,8,10,10792.574094929423,3,3,No
+EMP0292,30.0,Male,Sales,Manager,8,13,12075.428593435063,1,4,No
+EMP0139,43.0,Male,Research & Development,Healthcare Representative,7,10,3782.5560646200233,3,2,No
+EMP0794,22.0,Male,Sales,Manager,8,9,12270.679786968596,1,3,No
+EMP0752,21.0,Female,IT,Data Analyst,2,7,8165.430478119423,1,3,No
+EMP0496,40.0,Female,Human Resources,HR Manager,2,9,16039.180861048402,3,3,No
+EMP0568,24.0,Male,Sales,Manager,-4,4,15172.503300732866,4,2,No
+EMP0301,26.0,Male,IT,IT Support,6,10,,3,3,No
+EMP0772,29.0,Male,Research & Development,Laboratory Technician,4,9,3246.5518080109578,1,3,Yes
+EMP0519,35.0,Male,Sales,Sales Representative,4,7,4150.645378818759,2,3,No
+EMP0905,36.0,Female,Sales,Sales Representative,5,6,5577.698098692643,4,4,No
+EMP0110,34.0,Male,Human Resources,HR Representative,3,9,5173.3910613167045,4,3,No
+EMP0544,49.0,Male,Human Resources,HR Manager,6,11,19351.369245377355,3,4,No
+EMP0361,40.0,Female,Sales,Manager,4,13,14167.290278988925,1,3,Yes
+EMP0722,18.0,Female,IT,Software Engineer,4,10,,1,3,No
+EMP0376,27.0,Female,Human Resources,HR Representative,5,10,4745.873628978934,1,3,No
+EMP0151,37.0,Female,IT,IT Support,3,9,4043.5503774319973,3,4,No
+EMP0900,26.0,Male,Human Resources,HR Representative,4,11,3392.267916654597,3,3,No
+EMP0275,25.0,Female,Sales,Sales Executive,6,9,,3,3,No
+EMP0875,34.0,Female,Research & Development,Manufacturing Director,2,5,20708.72689859689,1,3,No
+EMP0588,26.0,Female,Research & Development,Healthcare Representative,6,10,3429.1426856276876,3,4,No
+EMP0501,44.0,Female,Research & Development,Research Scientist,9,12,8950.608589653351,1,3,No
+EMP0623,53.0,Male,IT,IT Support,2,4,3657.1549218909886,3,3,Yes
+EMP0015,18.0,Male,Human Resources,HR Manager,4,8,18088.628633873326,3,3,No
+EMP0966,49.0,F,IT,Data Analyst,4,9,7228.30221454219,1,4,No
+EMP0737,37.0,Male,Sales,Sales Representative,5,9,4817.543542252158,1,3,Yes
+EMP0272,20.0, M,Sales,Manager,2,3,11459.941337360458,1,3,No
+EMP0491,34.0,Female,Human Resources,HR Representative,2,4,4225.605919917834,4,3,No
+EMP0936,29.0,male,IT,Data Analyst,6,9,5257.173275558136,4,3,No
+EMP0055,45.0,Female,IT,Software Engineer,7,12,3755.1150063494124,4,3,No
+EMP0902,31.0,Female,Human Resources,HR Manager,5,10,15339.45286189972,3,3,No
+EMP0951,32.0,Male,Research & Development,Research Scientist,6,7,8315.294853736981,3,3,Yes
+EMP0924,27.0,Male,Human Resources,HR Manager,9,12,20747.251694089642,1,3,No
+EMP0536,35.0,Female,Research & Development,Healthcare Representative,9,13,4105.212308884454,4,3,No
+EMP0853,28.0,Male,Sales,Sales Executive,8,11,3129.412673163082,4,2,Yes
+EMP0781,36.0,Male,IT,Software Engineer,5,9,12142.374920932292,4,2,No
+EMP0952,38.0,Female,Research & Development,Manufacturing Director,8,11,11468.692474073656,2,3,Yes
+EMP0864,52.0,Female,Sales,Manager,4,7,,4,3,No
+EMP0888,31.0,Male,Research & Development,Laboratory Technician,2,6,,2,4,Yes
+EMP0160,,Female,Sales,Manager,2,9,19281.920333477603,3,4,No
+EMP0738,44.0,Female,Sales,Manager,6,12,16980.618170938713,3,3,No
+EMP0174,38.0,Female,Sales,Sales Executive,9,14,3764.1722367542707,4,3,Yes
+EMP0870,55.0,Female,IT,IT Support,5,9,3951.048183691858,3,4,No
+EMP0404,35.0,Male,Sales,Sales Representative,3,9,3757.8513996457386,4,3,No
+EMP0340,29.0,Male,Human Resources,HR Representative,2,4,5680.085688242754,2,2,No
+EMP0562,55.0,Male,Sales,Sales Executive,3,6,3257.1578084723606,4,2,No
+EMP0718,36.0,Male,Sales,Sales Representative,6,11,5674.244132883051,3,3,No
+EMP0325,24.0,Male,Human Resources,HR Manager,4,7,14597.447981499601,2,4,No
+EMP0056,44.0,Female,Sales,Manager,4,6,14691.14289621807,4,3,No
+EMP0170,27.0,Male,Human Resources,HR Manager,4,7,17027.94097273188,3,3,No
+EMP0375,56.0,Male,Sales,Sales Representative,2,7,3914.94666974845,2,2,Yes
+EMP0411,42.0,Female,Human Resources,HR Representative,3,6,,4,4,Yes
+EMP0751,25.0,Male,Sales,Sales Representative,7,11,3138.8351693153973,1,3,No
+EMP0388,,Female,IT,Software Engineer,6,11,9467.281571905563,3,4,No
+EMP0659,36.0,female,IT,Software Engineer,5,8,6260.213341538256,1,2,No
+EMP0473,19.0,Male,Human Resources,HR Representative,7,11,3232.259608729659,2,1,No
+EMP0624,48.0,Male,Research & Development,Laboratory Technician,2,5,,3,3,No
+EMP0538,31.0,Female,IT,Data Analyst,4,11,10763.055622487744,1,4,Yes
+EMP0937,24.0,F ,Research & Development,Manufacturing Director,6,8,9509.872641948954,4,3,No
+EMP0177,35.0,Female,IT,Software Engineer,3,4,7002.454315333643,4,4,No
+EMP0848,59.0,Male,IT,Data Analyst,1,4,9377.99837872514,1,3,Yes
+EMP0876,52.0,Male,IT,Software Engineer,6,14,,4,4,No
+EMP0111,18.0,Female,Research & Development,Healthcare Representative,3,6,4972.261517479888,1,3,No
+EMP0785,40.0,Male,Sales,Sales Executive,6,8,4036.661028391435,3,2,Yes
+EMP0563,43.0,Female,Sales,Sales Representative,5,9,5172.982078575462,3,2,No
+EMP0438,21.0,Male,Sales,Sales Representative,7,16,4158.825899209651,4,1,Yes
+EMP0486,20.0,Female,IT,Data Analyst,9,12,7571.356143604704,4,3,No
+EMP0547,40.0,Male,Research & Development,Research Scientist,3,6,,1,4,No
+EMP0908,42.0,Male,IT,Software Engineer,2,6,7951.681780839417,4,3,No
+EMP0269,30.0,Female,IT,Data Analyst,3,8,4368.350000597953,4,3,No
+EMP0667,32.0,Female,Sales,Sales Representative,7,10,5400.440084798325,3,3,No
+EMP0644,19.0,Male,Sales,Sales Representative,5,9,,4,3,No
+EMP0573,38.0,Male,Human Resources,HR Manager,1,4,18262.813693843236,3,3,No
+EMP0725,36.0,Female,IT,Software Engineer,-6,7,8790.835150868485,1,3,Yes
+EMP0574,32.0,Female,IT,IT Support,5,14,2150.4114895586117,2,3,Yes
+EMP0387,38.0,Female,Research & Development,Healthcare Representative,10,10,2736.955358820317,4,3,No
+EMP0650,41.0,Male,Research & Development,Healthcare Representative,4,8,5475.37576371028,1,3,No
+EMP0523,28.0,Female,IT,Data Analyst,4,6,5232.01373456953,4,2,No
+EMP0666,,Male,Sales,Manager,8,14,17917.022614018962,3,3,No
+EMP0973,43.0,Male,IT,IT Support,2,6,2633.8227907910577,4,4,No
+EMP0119,46.0,Male,Human Resources,HR Manager,3,6,12083.49538155289,1,3,Yes
+EMP0224,,Female,IT,Software Engineer,3,8,5178.304794444307,2,2,No
+EMP0621,27.0,Female,Research & Development,Research Scientist,2,6,7347.711673607761,3,3,Yes
+EMP0136,50.0,Male,Human Resources,HR Representative,-4,7,5196.755324308952,2,3,No
+EMP0889,40.0,Female,Sales,Manager,3,9,17278.472059362022,4,3,No
+EMP0595,45.0,Male,Human Resources,HR Manager,3,8,21319.83464452822,2,2,Yes
+EMP0318,31.0,Male,Human Resources,HR Manager,8,12,11487.664594000089,2,1,Yes
+EMP0832,25.0,Male,Human Resources,HR Representative,5,8,3654.4051099295475,4,2,No
+EMP0396,30.0,Male,Human Resources,HR Manager,5,9,14001.954584307126,4,1,No
+EMP0394,53.0,Female,Human Resources,HR Manager,6,8,10920.81674470176,1,4,No
+EMP0780,41.0,Female,Sales,Manager,5,8,9811.168792274533,4,2,No
+EMP0804,30.0,Male,Human Resources,HR Manager,-6,10,15495.72194135616,4,4,No
+EMP0295,38.0,Female,Human Resources,HR Manager,3,7,15233.054128686887,3,4,No
+EMP0812,30.0,F,IT,Software Engineer,12,20,6112.919581943343,3,3,No
+EMP0251,,Female,Research & Development,Research Scientist,7,10,,2,4,No
+EMP0163,46.0,Male,Research & Development,Laboratory Technician,2,3,5324.082369878595,3,3,No
+EMP0528,35.0,Female,Research & Development,Manufacturing Director,12,18,15247.399181091449,4,3,No
+EMP0128,,Male,Research & Development,Manufacturing Director,11,13,20149.621972562567,4,2,No
+EMP0063,23.0,Male,IT,Data Analyst,2,12,5565.570017729042,3,1,No
+EMP0838,25.0,Male,IT,Software Engineer,6,11,8869.606793845962,3,3,No
+EMP0530,25.0,Male,IT,Software Engineer,4,8,10575.778804425085,3,3,No
+EMP0670,45.0,Female,Sales,Sales Executive,3,9,3595.0318624199176,3,2,Yes
+EMP0500,21.0,Male,Research & Development,Research Scientist,3,7,8924.79206888119,2,3,No
+EMP0032,53.0,Female,Human Resources,HR Representative,6,11,3175.561562205225,3,3,No
+EMP0847,37.0,Female,Sales,Manager,7,8,11377.07908978577,2,3,No
+EMP0172,26.0,Male,IT,Data Analyst,4,13,4191.999836606308,3,3,No
+EMP0474,48.0,Male,Research & Development,Laboratory Technician,3,6,,2,2,No
+EMP0776,19.0,Male,Research & Development,Research Scientist,8,13,5257.308302264317,4,2,No
+EMP0331,34.0,Male,IT,IT Support,9,12,4484.529482898302,1,3,Yes
+EMP0303,42.0,Male,Human Resources,HR Manager,5,9,16771.32042685026,1,2,No
+EMP0879,34.0,Male,Sales,Sales Executive,6,11,4248.229935077435,4,3,No
+EMP0711,37.0,Male,Research & Development,Laboratory Technician,5,7,4836.591263119546,3,3,No
+EMP0232,37.0,Male,Research & Development,Laboratory Technician,5,10,3193.8558325346116,1,2,Yes
+EMP0244,43.0,Male,Research & Development,Laboratory Technician,-3,6,3756.188277306271,2,1,Yes
+EMP0317,41.0,Male,IT,IT Support,7,9,4923.675213299521,3,3,Yes
+EMP0143,,M,Sales,Sales Executive,6,15,5993.628782518517,2,3,No
+EMP0684,39.0,Female,Human Resources,HR Manager,3,7,16735.160029411723,4,3,No
+EMP0419,46.0,Male,Sales,Sales Representative,4,9,3803.8245352535396,2,3,Yes
+EMP0180,62.0,Female,IT,Software Engineer,2,11,6352.285219940647,2,2,Yes
+EMP0991,37.0,Female,Research & Development,Healthcare Representative,2,12,5664.314621424312,4,4,No
+EMP0214,41.0,Female,Human Resources,HR Manager,8,16,13219.667025358265,4,3,No
+EMP0489,51.0,Female,IT,IT Support,5,13,4566.280196772195,1,3,No
+EMP0355,34.0,Male,Human Resources,HR Manager,4,6,15322.8452392389,1,4,No
+EMP0260,42.0,Male,Research & Development,Research Scientist,6,10,9315.211137275688,2,2,Yes
+EMP0637,43.0,Female,Sales,Sales Representative,8,13,2991.5960738284975,4,2,No
+EMP0017,24.0,Male,Research & Development,Research Scientist,3,10,10006.791015294057,4,3,Yes
+EMP0603,43.0,Male,Human Resources,HR Representative,-4,4,4133.579090280381,3,4,Yes
+EMP0693,,Male,Human Resources,HR Representative,6,7,4186.783626337398,1,3,Yes
+EMP0406,41.0, M,Human Resources,HR Representative,6,10,2695.7282589871847,4,3,No
+EMP0263,18.0,Female,Research & Development,Healthcare Representative,4,12,4483.399279457955,4,2,No
+EMP0887,40.0,Male,IT,Data Analyst,4,6,10008.047944672877,1,3,No
+EMP0986,23.0,Male,IT,IT Support,7,11,3058.175456296598,2,4,No
+EMP0159,23.0,Male,Human Resources,HR Representative,7,11,4559.70477553398,4,3,No
+EMP0694,41.0,Female,Human Resources,HR Manager,7,13,11110.173725374883,4,3,No
+EMP0450,24.0,Male,Research & Development,Manufacturing Director,4,9,14360.067136654632,3,2,No
+EMP0191,30.0,Male,IT,Software Engineer,4,8,7386.324352104271,2,3,Yes
+EMP1000,40.0,Male,Human Resources,HR Representative,4,7,3292.0544292064246,4,3,No
+EMP0125,40.0,Male,IT,Software Engineer,11,18,11728.445217584816,2,3,No
+EMP0881,60.0,Male,IT,Data Analyst,-7,12,13517.554495622084,4,3,No
+EMP0658,34.0,Female,IT,Data Analyst,6,9,10272.990714580628,3,3,No
+EMP0065,43.0,Female,Human Resources,HR Manager,4,6,15619.456513270348,3,4,No
+EMP0817,37.0,Male,Human Resources,HR Manager,0,4,12963.907016587118,2,3,No
+EMP0550,, M,Human Resources,HR Representative,5,11,4668.8844266705555,4,3,No
+EMP0904,47.0,Male,Sales,Manager,-2,7,17424.94179299076,3,4,No
+EMP0806,31.0,Male,IT,Software Engineer,2,5,12671.95833970574,2,3,Yes
+EMP0933,20.0,Male,IT,IT Support,9,15,5434.037664521584,4,3,Yes
+EMP0416,27.0,Male,Human Resources,HR Representative,4,9,3582.3032274600982,2,4,No
+EMP0011,30.0,Female,Sales,Manager,7,9,16619.25337260241,3,2,No
+EMP0783,38.0,Female,Research & Development,Research Scientist,3,5,5525.155106541919,3,2,Yes
+EMP0259,39.0,Male,Sales,Sales Executive,6,13,5074.023372514284,1,4,No
+EMP0531,41.0,Male,IT,Data Analyst,3,9,11241.54816681789,4,3,No
+EMP0982,39.0,Male,Sales,Manager,4,8,17817.261766547985,3,4,No
+EMP0367,37.0,Female,Sales,Sales Executive,6,9,4520.626610274918,2,3,Yes
+EMP0730,27.0,Male,Research & Development,Laboratory Technician,6,9,4702.888830135824,3,3,No
+EMP0101,20.0,Male,Sales,Manager,3,6,12689.465887978506,3,4,No
+EMP0728,38.0,Male,Research & Development,Laboratory Technician,6,13,5415.466000084484,2,4,No
+EMP0098,37.0,Male,Research & Development,Healthcare Representative,0,9,3606.39080148924,3,2,No
+EMP0869,41.0,Male,Human Resources,HR Manager,5,5,13289.440994555716,4,3,No
+EMP0636,18.0,Female,IT,Data Analyst,5,7,5450.726228289037,2,3,Yes
+EMP0949,34.0,Female,Sales,Sales Representative,2,7,3391.1717075380093,3,3,No
+EMP0432,18.0,Female,Human Resources,HR Representative,8,10,2301.8211706247425,2,2,No
+EMP0698,22.0,Male,Sales,Sales Representative,5,9,3380.0688299648473,4,3,No
+EMP0537,26.0,Female,Sales,Sales Executive,6,11,4532.952721017833,3,3,No
+EMP0082,38.0,Male,IT,IT Support,5,9,,4,2,No
+EMP0786,45.0,Male,Human Resources,HR Representative,7,9,3621.3051975311478,1,3,No
+EMP0789,34.0,Male,Sales,Sales Executive,4,9,5185.716409589148,3,3,No
+EMP0822,49.0,Female,Sales,Sales Representative,6,11,2129.559110570644,3,3,No
+EMP0960,39.0,Female,Human Resources,HR Manager,2,8,,3,1,No
+EMP0197,26.0,Male,IT,Data Analyst,6,13,,3,2,No
+EMP0485,27.0,Male,IT,IT Support,0,2,5023.042502522681,1,4,No
+EMP0841,34.0,Male,IT,Software Engineer,4,6,7872.819029532891,4,3,No
+EMP0611,41.0,F ,Human Resources,HR Manager,6,13,22902.679252907714,2,4,Yes
+EMP0884,45.0,Male,Human Resources,HR Representative,7,14,3418.690972882653,2,3,No
+EMP0860,41.0,Male,IT,IT Support,7,10,3731.199102542585,3,2,No
+EMP0370,27.0,Female,Sales,Sales Representative,5,9,4563.364967832048,2,3,Yes
+EMP0131,19.0,Male,Research & Development,Laboratory Technician,6,10,4632.917484498705,3,3,No
+EMP0025,29.0,Male,IT,IT Support,1,5,4254.706093015281,4,3,No
+EMP0459,29.0,Female,IT,Software Engineer,7,12,6603.555555052497,1,3,Yes
+EMP0635,24.0,Female,Sales,Sales Executive,3,8,5397.514731907459,3,4,No
+EMP0442,34.0,Male,Research & Development,Manufacturing Director,-4,5,13391.442469678503,2,4,No
+EMP0352,49.0,Female,Human Resources,HR Representative,7,10,4546.636348354079,4,4,Yes
+EMP0953,22.0,Female,Research & Development,Laboratory Technician,6,10,5003.488167024326,3,3,No
+EMP0560,30.0,Male,Research & Development,Healthcare Representative,4,8,3038.684608232382,1,2,Yes
+EMP0914,,Female,Sales,Sales Executive,4,5,4075.282044643007,3,4,No
+EMP0729,29.0,Male,Human Resources,HR Representative,6,10,4105.872593541249,4,4,No
+EMP0229,,Male,IT,Data Analyst,7,8,8416.233354952285,4,2,No
+EMP0617,,Female,Human Resources,HR Representative,6,6,4310.69255004326,1,3,Yes
+EMP0671,47.0,Male,IT,Software Engineer,6,11,8704.195248643717,1,3,No
+EMP0356,24.0,Male,Research & Development,Laboratory Technician,6,7,3579.5922684092566,2,3,No
+EMP0846,39.0,Male,Human Resources,HR Manager,8,12,14984.975386313778,4,3,No
+EMP0555,38.0,Male,Sales,Sales Executive,5,7,4634.023406042665,1,3,No
+EMP0319,38.0,Male,IT,Software Engineer,3,7,8153.838004550724,1,2,No
+EMP0706,41.0,Male,Human Resources,HR Representative,5,8,3922.577635032753,1,3,Yes
+EMP0641,31.0,Male,Sales,Manager,3,7,14092.7649913318,3,3,No
+EMP0814,36.0,Female,Research & Development,Research Scientist,4,9,6668.694521090023,2,3,No
+EMP0037,37.0,Male,Human Resources,HR Manager,8,13,19694.47374699521,1,4,No
+EMP0685,22.0,Male,Sales,Sales Representative,5,6,4152.745964297654,4,2,No
+EMP0839,44.0,Female,Human Resources,HR Manager,7,12,13410.198624767498,4,4,No
+EMP0755,,Male,Research & Development,Manufacturing Director,6,6,16365.92925614555,3,3,No
+EMP0461,54.0,Female,IT,IT Support,6,8,4443.837924795201,4,4,No
+EMP0331,34.0,Male,IT,IT Support,9,12,4484.529482898302,1,3,Yes
+EMP0497,24.0,Male,IT,Software Engineer,9,14,10267.679037294234,2,3,No
+EMP0705,19.0,Male,Sales,Manager,9,13,,2,3,No
+EMP0377,43.0,Female,Human Resources,HR Representative,5,7,2798.264350851363,3,3,No
+EMP0746,27.0,Female,Human Resources,HR Representative,8,10,3520.858787170907,3,3,No
+EMP0164,,F,Research & Development,Research Scientist,6,11,5757.874437319124,2,3,No
+EMP0736,39.0,F ,Human Resources,HR Manager,3,11,16301.011597134355,4,3,No
+EMP0183,24.0,Female,Sales,Sales Representative,5,11,4295.605243643247,3,3,No
+EMP0551,35.0,Male,Human Resources,HR Representative,5,7,3824.888370590821,1,1,Yes
+EMP0179,32.0,Male,IT,Software Engineer,5,9,8595.407057629573,1,2,No
+EMP0218,32.0,male,IT,Data Analyst,3,7,4023.4300403015955,4,3,No
+EMP0250,39.0,Male,Human Resources,HR Manager,6,6,15811.045947541548,1,2,No
+EMP0040,36.0,Female,Human Resources,HR Representative,2,5,3116.9569110031175,3,2,Yes
+EMP0051,38.0,Male,Sales,Sales Representative,3,5,2871.2129034054224,3,2,Yes
+EMP0348,20.0,Female,Research & Development,Laboratory Technician,3,6,3790.141971386955,2,3,No
+EMP0205,21.0,Male,IT,Data Analyst,2,6,9594.95972723686,4,2,No
+EMP0861,37.0,Male,Human Resources,HR Representative,2,9,5155.939966210667,2,4,No
+EMP0649,32.0,Female,IT,Software Engineer,5,6,5464.506852769646,2,3,No
+EMP0289,37.0,Female,Sales,Sales Executive,5,10,3179.597009310649,3,3,No
+EMP0599,30.0,F ,Human Resources,HR Manager,2,3,15661.57539580584,4,3,No
+EMP0492,49.0,Female,Sales,Sales Executive,5,7,2402.0563481148124,3,4,No
+EMP0421,55.0,Male,IT,Software Engineer,-9,12,7339.284066846251,3,3,No
+EMP0122,25.0,Male,Sales,Sales Representative,7,13,2945.327000000741,4,3,No
+EMP0836,37.0,Male,IT,Data Analyst,2,8,7138.519682492293,3,4,No
+EMP0134,39.0,Female,Human Resources,HR Representative,10,10,4464.658331810687,1,3,Yes
+EMP0777,27.0,Male,IT,Software Engineer,8,9,6061.860304594184,2,4,No
+EMP0578,42.0,Female,IT,Data Analyst,7,9,10112.511416130594,3,3,No
+EMP0220,35.0,Male,IT,IT Support,-6,8,3603.6164854443346,2,3,Yes
+EMP0315,48.0,Female,Human Resources,HR Manager,3,6,14956.502506454844,1,4,Yes
+EMP0116,38.0,Male,Human Resources,HR Representative,5,10,3662.053232931043,4,3,No
+EMP0843,23.0,Male,Human Resources,HR Manager,3,8,13943.922056207157,2,3,Yes
+EMP0175,37.0,Female,Human Resources,HR Manager,3,8,14818.489564207868,1,3,No
+EMP0824,31.0,Female,Human Resources,HR Representative,3,6,5027.672869687949,4,2,No
+EMP0954,49.0,Male,Research & Development,Healthcare Representative,8,11,2918.2645462121955,1,3,Yes
+EMP0807,37.0,Male,Human Resources,HR Manager,5,11,9736.670720227898,2,3,No
+EMP0284,22.0,Male,Research & Development,Laboratory Technician,9,13,3951.0042988343093,4,4,No
+EMP0168,53.0,Female,IT,Software Engineer,4,4,,4,3,No
+EMP0620,37.0,Female,Sales,Manager,3,5,14285.625484965076,1,4,Yes
+EMP0906,35.0,M,IT,Software Engineer,4,10,5940.589753377548,3,4,No
+EMP0124,20.0,Female,Human Resources,HR Manager,-3,7,16434.78266618259,4,3,No
+EMP0592,30.0,Male,Human Resources,HR Representative,7,14,,4,3,No
+EMP0631,18.0,Female,Sales,Sales Executive,2,3,4667.606526554251,3,3,Yes
+EMP0765,46.0,M,Research & Development,Research Scientist,3,8,7800.17828605786,1,3,No
+EMP0883,30.0,Female,Research & Development,Laboratory Technician,10,14,,4,3,No
+EMP0474,48.0,Male,Research & Development,Laboratory Technician,3,6,,2,2,No
+EMP0872,27.0,Male,IT,Software Engineer,5,8,9980.16632798738,4,4,No
+EMP0775,41.0,Female,Sales,Sales Representative,1,5,4166.48074471572,2,4,No
+EMP0851,28.0,Male,Sales,Sales Representative,4,12,4130.493019715368,1,3,Yes
+EMP0199,35.0,Female,Sales,Manager,5,11,14223.31658934704,3,3,No
+EMP0915,34.0,Female,Sales,Sales Executive,6,11,5830.368729375612,2,3,No
+EMP0522,40.0,F,Research & Development,Healthcare Representative,6,9,6564.26017755055,2,1,No
+EMP0412,23.0,Male,Human Resources,HR Manager,1,3,15833.36459517813,2,3,Yes
+EMP0287,33.0,Female,Sales,Sales Executive,4,7,2506.5227224948503,2,3,Yes
+EMP0850,29.0,Female,IT,Software Engineer,4,10,,3,3,No
+EMP0703,27.0,Male,IT,Data Analyst,5,10,8869.494378189309,2,3,No
+EMP0517,40.0,Male,Research & Development,Laboratory Technician,10,11,3484.1812693709257,3,3,No
+EMP0161,25.0,Female,Sales,Sales Executive,6,10,2918.990394387,3,2,No
+EMP0169,32.0,Female,Human Resources,HR Manager,5,7,16053.481401141347,3,3,No
+EMP0344,29.0,Female,Sales,Manager,5,10,19737.40678877971,3,4,No
+EMP0895,48.0,Male,Research & Development,Manufacturing Director,9,12,17340.094178475138,4,2,No
+EMP0490,43.0,Female,Sales,Sales Representative,3,3,5014.266329757736,3,1,No
+EMP0580,46.0,Male,Research & Development,Manufacturing Director,1,3,14365.132863737335,4,3,No
+EMP0054,41.0,Male,Sales,Sales Executive,4,5,3926.579519311895,1,4,Yes
+EMP0745,40.0,Female,Research & Development,Manufacturing Director,6,10,11763.168278577166,3,3,No
+EMP0206,25.0,Male,Research & Development,Laboratory Technician,3,7,2296.6575966153164,1,3,Yes
+EMP0436,35.0,Female,Human Resources,HR Representative,2,6,2361.5361517351703,3,4,No
+EMP0053,28.0,Female,IT,Data Analyst,7,11,5294.686372030701,3,4,No
+EMP0645,32.0,Male,Human Resources,HR Manager,6,12,14510.398476755829,1,2,Yes
+EMP0957,38.0,Female,Research & Development,Manufacturing Director,8,13,11572.30728883277,4,3,No
+EMP0594,38.0,Female,Research & Development,Research Scientist,5,10,8305.778533201285,1,2,No
+EMP0476,32.0,Female,Human Resources,HR Representative,5,12,4345.760751743466,3,4,No
+EMP0012,30.0,F ,IT,Software Engineer,9,12,5895.740473979862,3,3,No
+EMP0529,37.0,Female,Research & Development,Manufacturing Director,10,16,13650.68657474238,3,3,No
+EMP0383,18.0,Male,IT,IT Support,3,9,4441.840544935834,4,4,Yes
+EMP0149,40.0,Female,Sales,Sales Executive,5,8,4071.214207332119,1,3,No
+EMP0532,18.0,Female,Research & Development,Research Scientist,6,9,7222.913501233914,2,3,No
+EMP0009,30.0,Female,Sales,Manager,4,6,13472.803830126246,4,3,No
+EMP0389,44.0,Male,Research & Development,Research Scientist,6,11,,2,3,Yes
+EMP0342,37.0,Male,IT,IT Support,2,7,2119.3286557445736,4,3,No
+EMP0950,37.0,Male,Research & Development,Research Scientist,2,6,6771.306802548152,4,2,No
+EMP0418,36.0,Male,Human Resources,HR Manager,5,12,14051.582311081032,3,3,No
+EMP0322,40.0,Female,Sales,Manager,3,6,14810.005780473473,3,2,No
+EMP0932,53.0,Female,IT,Software Engineer,3,9,9348.336481182832,4,4,Yes
+EMP0571,35.0,Male,Sales,Sales Representative,5,9,,3,3,No
+EMP0589,43.0,Male,IT,Data Analyst,5,8,8370.246781905085,2,3,No
+EMP0203,45.0,Male,Sales,Sales Executive,4,7,3367.9308528592283,3,3,No
+EMP0302,29.0,Male,Sales,Sales Executive,6,8,3200.9473280262537,2,4,No
+EMP0541,43.0,Male,IT,IT Support,2,4,4753.915544707429,1,3,No
+EMP0381,26.0,Male,IT,Software Engineer,9,12,9541.997523008662,1,3,No
+EMP0224,,Female,IT,Software Engineer,3,8,5178.304794444307,2,2,No
+EMP0516,42.0,Female,IT,IT Support,8,13,4162.859324619223,3,3,No
+EMP0726,33.0,Female,Sales,Sales Representative,4,9,4093.692579944518,2,2,Yes
+EMP0674,31.0,Male,Human Resources,HR Representative,1,3,4219.15235965408,2,3,Yes
+EMP0010,40.0,Female,Sales,Sales Executive,7,8,953.5754790675296,1,3,Yes
+EMP0379,56.0,Female,IT,Data Analyst,7,10,11257.625228828445,2,4,Yes
+EMP0451,34.0,Male,Research & Development,Research Scientist,6,7,10182.919692825304,2,3,No
+EMP0584,57.0,Female,Research & Development,Laboratory Technician,3,7,3471.947092545602,3,2,No
+EMP0634,30.0,Male,IT,Data Analyst,4,9,,4,4,No
+EMP0607,27.0,Female,Research & Development,Healthcare Representative,3,9,3431.91705365479,3,3,No
+EMP0094,31.0, M,Human Resources,HR Representative,5,8,3866.620451600789,4,3,Yes
+EMP0803,35.0,Female,IT,Data Analyst,3,8,5044.672619992744,2,3,No
+EMP0049,38.0,F,IT,Data Analyst,8,11,7876.103749016765,3,4,Yes
+EMP0612,34.0,Male,Sales,Sales Representative,9,12,2851.2695213410916,2,3,Yes
+EMP0013,37.0,Male,Research & Development,Laboratory Technician,6,7,2581.6324002351544,4,4,No
+EMP0058,31.0,Female,Research & Development,Research Scientist,4,10,,2,3,No
+EMP0829,,Female,Sales,Sales Executive,11,18,4536.667248102405,2,3,No
+EMP0916,37.0,Female,Human Resources,HR Representative,5,11,4359.006640954392,3,3,No
+EMP0046,27.0,Male,Human Resources,HR Representative,5,7,5093.374429030195,2,3,Yes
+EMP0027,23.0,Female,Human Resources,HR Manager,5,6,10926.504230579518,4,3,No
+EMP0928,38.0,Male,Research & Development,Healthcare Representative,-4,5,3276.5904516772625,4,3,No
+EMP0194,22.0,Male,Human Resources,HR Representative,2,7,2302.3018098211633,3,3,No
+EMP0825,30.0,Female,IT,Software Engineer,4,9,,3,2,No
+EMP0639,22.0,Female,Human Resources,HR Manager,5,11,16354.651278757718,1,2,Yes
+EMP0524,40.0,Male,Research & Development,Research Scientist,7,9,8448.9964097064,4,3,No
+EMP0543,40.0,Female,Human Resources,HR Representative,6,9,3054.559056647713,4,4,Yes
+EMP0622,39.0,Female,Research & Development,Manufacturing Director,7,9,12891.387674515143,4,3,No
+EMP0716,46.0,Male,Human Resources,HR Manager,12,16,17751.701535593045,2,3,Yes
+EMP0297,43.0,Male,Human Resources,HR Representative,5,9,,4,3,No
+EMP0216,42.0,Female,Sales,Sales Executive,4,7,5831.377390779243,3,3,No
+EMP0264,24.0,Female,IT,Data Analyst,7,9,10377.347964310691,2,3,No
+EMP0362,50.0,Male,Research & Development,Research Scientist,6,10,9091.36327638067,4,2,No
+EMP0647,18.0,Female,IT,IT Support,-5,10,4168.740509675284,4,3,No
+EMP0153,28.0,Female,Research & Development,Manufacturing Director,4,9,20482.689756221716,1,4,No
+EMP0392,39.0,Male,Research & Development,Manufacturing Director,2,4,17058.37990267271,3,3,No
+EMP0585,36.0,Female,Research & Development,Laboratory Technician,-9,13,2794.2726837690834,1,3,Yes
+EMP0304,41.0,Female,Research & Development,Manufacturing Director,4,10,15649.456903461723,4,3,No
+EMP0467,41.0,Male,Human Resources,HR Manager,3,6,14348.751405251694,3,4,No
+EMP0209,40.0,Male,Human Resources,HR Representative,3,6,2093.4468231491974,3,4,No
+EMP0306,36.0,Male,Sales,Sales Representative,6,10,3570.3449753702134,3,3,No
+EMP0373,49.0,Male,IT,Data Analyst,8,12,7341.043472024768,2,4,No
+EMP0042,36.0,Female,Sales,Sales Representative,4,7,3913.662409652086,3,4,No
+EMP0425,41.0,Male,Sales,Sales Executive,8,15,3631.4963340579616,3,3,No
+EMP0886,53.0,Male,IT,Data Analyst,5,10,7998.6275064510355,2,3,No
+EMP0652,46.0,Male,Human Resources,HR Manager,6,9,20091.16397917196,2,4,Yes
+EMP0995,24.0,F ,Human Resources,HR Representative,7,10,3356.753410306971,4,4,No
+EMP0833,24.0,Female,IT,Software Engineer,4,9,8764.106071519078,3,3,No
+EMP0402,29.0,Male,Sales,Sales Executive,1,2,4588.945657521091,4,3,No
+EMP0196,38.0,Male,Sales,Sales Representative,4,9,4044.5435875787466,4,3,No
+EMP0878,37.0,Female,Human Resources,HR Representative,4,8,4716.051135263064,1,2,Yes
+EMP0823,57.0,Male,Research & Development,Healthcare Representative,4,6,5101.7157121691125,4,3,No
+EMP0719,,Male,Research & Development,Healthcare Representative,4,8,,2,3,Yes
+EMP0078,32.0,Male,IT,Software Engineer,5,8,4994.382727930372,2,4,Yes
+EMP0854,46.0,Female,IT,IT Support,8,14,3666.9603937528727,2,1,Yes
+EMP0536,35.0,Female,Research & Development,Healthcare Representative,9,13,4105.212308884454,4,3,No
+EMP0166,39.0,Female,IT,Data Analyst,3,8,4799.28900071518,3,3,No
+EMP0768,52.0,Male,Sales,Sales Representative,5,10,4926.762359918163,4,2,Yes
+EMP0877,29.0,Male,Sales,Manager,3,6,20167.08955815548,1,3,No
+EMP0113,35.0,female,Sales,Sales Executive,9,17,4902.7810686011535,4,2,Yes
+EMP0757,39.0,Male,IT,IT Support,5,7,5267.408950177688,3,3,No
+EMP0357,34.0,Male,Sales,Sales Executive,4,8,3632.3188765407203,2,3,No
+EMP0041,42.0,Male,Research & Development,Healthcare Representative,6,7,3326.8800025090204,1,4,Yes
+EMP0242,33.0,Female,Research & Development,Healthcare Representative,8,10,3488.3066322006507,4,3,No
+EMP0178,49.0,Male,Human Resources,HR Representative,4,7,3462.462698152681,2,4,No
+EMP0748,,Male,Research & Development,Healthcare Representative,7,13,2485.8581814351746,4,3,Yes
+EMP0008,42.0,Male,Human Resources,HR Representative,-2,6,3833.6110605335734,3,3,No
+EMP0619,,Male,Research & Development,Healthcare Representative,1,6,5054.707157543645,3,1,Yes
+EMP0435,50.0,Male,Sales,Sales Representative,8,14,2991.7708255451216,1,3,Yes
+EMP0256,30.0,Female,Sales,Sales Executive,5,7,4099.983556814748,2,3,No
+EMP0561,37.0,Female,Sales,Manager,5,9,14838.345746137848,3,3,No
+EMP0036,22.0,Female,Research & Development,Research Scientist,8,11,6912.350265585136,3,1,No
+EMP0187,39.0,Male,Sales,Sales Representative,7,12,3665.907224657881,2,3,No
+EMP0828,29.0,Male,Sales,Sales Executive,4,6,4181.524092588148,4,3,No
+EMP0579,20.0,Female,IT,Data Analyst,4,8,3447.2989258948755,4,4,No
+EMP0980,42.0,Female,IT,IT Support,6,12,4152.701699418714,4,2,No
+EMP0238,36.0,Male,Human Resources,HR Representative,8,13,3477.671197295214,4,3,No
+EMP0109,37.0,Female,Research & Development,Laboratory Technician,1,6,3210.384343412591,1,3,Yes
+EMP0300,41.0,Female,Research & Development,Healthcare Representative,6,8,5419.919124446613,1,3,No
+EMP0505,28.0,Female,Research & Development,Laboratory Technician,3,10,4792.667840213773,1,2,No
+EMP0672,18.0, M,Human Resources,HR Manager,6,8,19517.790072000193,4,4,No
+EMP0417,50.0,Female,IT,IT Support,-3,10,3511.6347503628876,3,3,Yes
+EMP0219,30.0,Male,Sales,Manager,8,11,16704.30683133178,4,3,Yes
+EMP0984,34.0,Male,IT,IT Support,4,12,4108.001938229309,4,3,No
+EMP0120,42.0,Female,Sales,Sales Executive,0,2,2519.643721997105,3,3,No
+EMP0834,27.0,Male,Sales,Manager,4,11,21793.842092273495,4,3,No
+EMP0132,35.0,Female,IT,Software Engineer,4,8,10501.769237226299,1,3,Yes
+EMP0265,32.0,Male,Sales,Manager,9,11,12221.56259011931,3,4,No
+EMP0885,41.0,Male,Human Resources,HR Representative,-6,11,4001.059167961822,4,4,No
+EMP0455,29.0,Male,IT,Data Analyst,3,4,8211.775735186144,2,4,No
+EMP0695,40.0,Female,IT,Software Engineer,5,9,9341.244120169602,4,3,No
+EMP0448,25.0,Male,Human Resources,HR Representative,5,8,2274.5037788066206,1,3,No
+EMP0503,21.0,Male,IT,Data Analyst,4,9,9637.393077654682,3,2,No
+EMP0162,42.0,Female,Research & Development,Healthcare Representative,4,8,3472.482362116852,4,3,Yes
+EMP0407,24.0,Male,Research & Development,Research Scientist,5,10,6263.894641797447,3,1,No
+EMP0733,39.0,Male,Sales,Sales Representative,2,6,4992.436361185124,1,3,No
+EMP0458,24.0,Male,Sales,Sales Representative,3,7,5726.873403339546,4,3,No
+EMP0293,29.0,Male,Research & Development,Healthcare Representative,5,6,3050.1009308204293,2,3,Yes
+EMP0713,29.0,Male,IT,Software Engineer,8,13,3734.303933604353,4,3,No
+EMP0462,35.0,Male,Research & Development,Manufacturing Director,5,12,10349.23500854217,2,3,No
+EMP0463,28.0,Male,Sales,Sales Representative,4,6,3250.8933032097557,4,1,Yes
+EMP0892,40.0,Female,Research & Development,Manufacturing Director,2,4,17343.889928045137,2,2,Yes
+EMP0946,24.0,Male,Research & Development,Laboratory Technician,6,10,2635.3518683631137,2,3,No
+EMP0353,,Female,Sales,Manager,3,9,10541.82693957091,1,3,No
+EMP0279,35.0,Male,IT,Software Engineer,3,5,8347.695604717237,3,4,No
+EMP0341,26.0,Male,Sales,Manager,6,9,13656.753233227955,3,3,No
+EMP0337,26.0,Female,Research & Development,Laboratory Technician,3,6,3694.3964198010676,1,3,Yes
+EMP0397,18.0,Male,Human Resources,HR Manager,5,7,12094.034603108692,4,2,No
+EMP0239,,Male,Human Resources,HR Manager,5,8,,3,3,No
+EMP0324,55.0,Female,Research & Development,Research Scientist,3,7,,1,3,Yes
+EMP0516,42.0,Female,IT,IT Support,8,13,4162.859324619223,3,3,No
+EMP0773,41.0,Male,Research & Development,Healthcare Representative,2,6,4522.359055290952,1,3,Yes
+EMP0064,23.0,Female,Sales,Sales Representative,6,10,2385.891397733988,2,3,No
+EMP0074,50.0,Male,IT,Software Engineer,5,8,,2,3,No
+EMP0002,33.0,Male,IT,IT Support,6,13,3189.986639228638,3,3,No
+EMP0283,50.0,Female,IT,IT Support,3,7,4232.425699597369,4,4,No
+EMP0444,34.0,Male,Research & Development,Manufacturing Director,6,11,15191.851425257435,1,3,No
+EMP0312,45.0,Female,Human Resources,HR Manager,4,9,13528.297276075986,2,4,Yes
+EMP0482,25.0,Male,Human Resources,HR Manager,3,7,14734.76658854142,4,3,No
+EMP0248,28.0,Male,Human Resources,HR Manager,9,12,13104.957149533057,2,2,Yes
+EMP0527,18.0,Female,Human Resources,HR Representative,-4,6,3431.145097762913,2,2,No
+EMP0597,32.0,Female,Sales,Sales Representative,3,5,2371.2422710610617,3,3,No
+EMP0487,28.0,Male,Sales,Sales Executive,4,9,3158.165431005935,4,3,Yes
+EMP0127,25.0,Male,IT,Data Analyst,6,11,7063.356965047069,3,4,No
+EMP0414,47.0,Female,Human Resources,HR Manager,5,11,12714.679938364645,3,3,No
+EMP0504,40.0,Male,IT,Software Engineer,7,11,9828.357690860597,3,1,No
+EMP0478,38.0,Female,IT,Data Analyst,5,6,9679.200167080082,2,3,Yes
+EMP0072,50.0,Female,Sales,Manager,3,5,,3,3,No
+EMP0365,41.0,Female,IT,Software Engineer,4,4,10628.889148912318,3,3,No
+EMP0675,20.0,Male,Human Resources,HR Representative,-8,11,4175.8794268582715,3,4,No
+EMP0799,35.0,Male,IT,Software Engineer,6,11,6388.196715882253,4,2,No
+EMP0222,18.0,Female,IT,Data Analyst,9,13,6399.453897149671,2,3,No
+EMP0185,32.0,Female,IT,Software Engineer,7,15,10298.75554623804,3,3,No
+EMP0720,34.0,Male,Sales,Manager,7,9,16348.17464118028,1,3,No
+EMP0385,27.0,Male,Human Resources,HR Manager,4,8,15981.909819526754,2,2,No
+EMP0378,36.0,Female,Research & Development,Research Scientist,9,12,9765.678799958785,4,1,No
+EMP0360,26.0,Female,Research & Development,Research Scientist,5,8,8579.446897072103,2,3,No
+EMP0721,38.0,Male,Sales,Manager,4,6,13658.561256353158,3,2,No
+EMP0901,38.0,Male,Sales,Sales Executive,9,11,2654.319988764455,1,3,No
+EMP0998,41.0,Male,Research & Development,Healthcare Representative,5,7,5908.959741265411,3,4,No
+EMP0359,38.0,Male,IT,IT Support,5,11,3337.473628442273,1,4,Yes
+EMP0657,35.0,F ,IT,Data Analyst,5,6,5684.619873891584,2,3,Yes
+EMP0583,41.0,Male,IT,Data Analyst,3,6,8455.501654418951,1,3,No
+EMP0702,45.0,Male,Human Resources,HR Representative,9,13,,3,2,No
+EMP0798,41.0,Male,Research & Development,Manufacturing Director,6,11,15771.170908931606,1,3,Yes
+EMP0240,43.0,Male,Sales,Sales Executive,5,7,3732.0907516344437,2,2,No
+EMP0329,41.0,Male,Sales,Sales Executive,10,17,3875.553020397984,2,3,Yes
+EMP0200,23.0,Female,Human Resources,HR Manager,4,8,15034.96271349749,4,3,No
+EMP0465,33.0,Male,Human Resources,HR Manager,7,11,,4,3,No
+EMP0333,35.0,Male,IT,Data Analyst,5,10,,1,3,Yes
+EMP0815,45.0,Male,Sales,Manager,3,8,14735.565972924167,2,3,Yes
+EMP0045,,Male,IT,Software Engineer,2,9,8880.501827244803,3,2,No
+EMP0085,26.0,Male,Human Resources,HR Manager,3,8,15184.080619052009,3,4,No
+EMP0290,28.0,Male,Sales,Manager,9,13,16407.824711823912,3,3,No
+EMP0903,35.0,Male,Human Resources,HR Representative,4,8,3668.532873351756,2,4,Yes
+EMP0494,26.0,Male,Human Resources,HR Representative,3,10,3857.868165384069,4,4,No
+EMP0262,34.0,Male,Sales,Sales Representative,4,8,3658.108927084527,2,3,Yes
+EMP0640,22.0,Female,Sales,Manager,6,9,14427.809740787943,4,2,Yes
+EMP0171,26.0,Female,IT,Software Engineer,6,12,6393.526259167809,4,3,No
+EMP0106,39.0,Male,Sales,Sales Representative,4,11,4142.2271166591945,4,3,No
+EMP0988,43.0,Male,IT,Software Engineer,5,7,6706.943560361618,1,3,No
+EMP0614,23.0,Male,Sales,Manager,5,8,14718.41264070361,3,3,No
+EMP0133,24.0,Female,Human Resources,HR Manager,3,11,10716.382700524206,3,3,No
+EMP0408,33.0,Male,IT,Software Engineer,4,8,7094.7334307290175,2,1,No
+EMP0308,29.0,Male,Human Resources,HR Manager,4,8,20014.47815359998,1,3,No
+EMP0347,20.0,Male,IT,Data Analyst,-3,5,9567.963084454994,2,2,No
+EMP0569,18.0,Female,Research & Development,Healthcare Representative,1,3,3274.5415074350212,3,2,No
+EMP0763,60.0,female,Sales,Manager,3,8,13762.474257388893,4,1,No
