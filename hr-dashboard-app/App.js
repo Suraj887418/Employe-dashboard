@@ -16,24 +16,17 @@ export default function App() {
   const [selectedDept, setSelectedDept] = useState('All');
   const [selectedGender, setSelectedGender] = useState('All');
 
-  // Fetch data from API when app starts
+  // Fetch data from local JSON instead of API
   useEffect(() => {
-    fetch(API_URL)
-      .then(response => {
-        if (!response.ok) {
-          throw new Error('Network response was not ok');
-        }
-        return response.json();
-      })
-      .then(data => {
-        setRawData(data);
-        setLoading(false);
-      })
-      .catch(err => {
-        console.error('Error fetching data:', err);
-        setError('Failed to connect to API server');
-        setLoading(false);
-      });
+    try {
+      const data = require('./data.json');
+      setRawData(data);
+      setLoading(false);
+    } catch (err) {
+      console.error('Error loading data:', err);
+      setError('Failed to load local data');
+      setLoading(false);
+    }
   }, []);
 
   // Extract unique filter options
